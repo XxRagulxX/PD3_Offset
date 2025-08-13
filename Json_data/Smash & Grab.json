@@ -103,10 +103,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-12-18T15:58:50.717Z"
+                    "purchaseAt": "2024-12-18T15:58:50.717Z",
+                    "discountPurchaseAt": "2024-12-18T15:58:50.717Z"
                 }
             ],
             "itemQty": {},
@@ -116,7 +117,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-12-18T15:58:51.099Z",
-            "updatedAt": "2025-07-04T11:48:09.255Z"
+            "updatedAt": "2025-05-26T08:03:59.523Z"
         },
         {
             "title": "1 Chus Preplanning Asset",
@@ -139,10 +140,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-03-06T12:01:44.927Z"
+                    "purchaseAt": "2024-03-06T12:01:44.927Z",
+                    "discountPurchaseAt": "2024-03-06T12:01:44.927Z"
                 }
             ],
             "itemQty": {},
@@ -156,7 +158,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-03-06T12:01:44.704Z",
-            "updatedAt": "2025-07-04T11:48:09.436Z"
+            "updatedAt": "2024-09-27T11:47:41.670Z"
         },
         {
             "title": "1 Data Center Preplanning Asset",
@@ -179,10 +181,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-10-17T09:01:23.059Z"
+                    "purchaseAt": "2023-10-17T09:01:23.059Z",
+                    "discountPurchaseAt": "2023-10-17T09:01:23.059Z"
                 }
             ],
             "itemQty": {},
@@ -196,7 +199,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-10-17T09:01:23.552Z",
-            "updatedAt": "2025-07-04T11:48:09.477Z"
+            "updatedAt": "2024-09-27T11:47:39.746Z"
         },
         {
             "title": "1 Didi Preplanning Asset",
@@ -219,10 +222,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-05-22T11:30:07.803Z"
+                    "purchaseAt": "2024-05-22T11:30:07.803Z",
+                    "discountPurchaseAt": "2024-05-22T11:30:07.803Z"
                 }
             ],
             "itemQty": {},
@@ -236,7 +240,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-05-22T11:30:06.559Z",
-            "updatedAt": "2025-07-04T11:48:09.405Z"
+            "updatedAt": "2024-09-27T11:47:41.775Z"
         },
         {
             "title": "1 Fort Preplanning Asset",
@@ -259,10 +263,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-01-17T12:34:19.723Z"
+                    "purchaseAt": "2024-01-17T12:34:19.723Z",
+                    "discountPurchaseAt": "2024-01-17T12:34:19.723Z"
                 }
             ],
             "itemQty": {},
@@ -276,7 +281,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-01-17T12:34:19.785Z",
-            "updatedAt": "2025-07-04T11:48:09.484Z"
+            "updatedAt": "2024-09-27T11:47:38.955Z"
         },
         {
             "title": "1 ONE Preplanning Asset ",
@@ -299,10 +304,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-10-14T12:15:05.788Z"
+                    "purchaseAt": "2024-10-14T12:15:05.788Z",
+                    "discountPurchaseAt": "2024-10-14T12:15:05.788Z"
                 }
             ],
             "itemQty": {},
@@ -316,7 +322,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-10-14T12:15:06.681Z",
-            "updatedAt": "2025-07-04T11:48:09.273Z"
+            "updatedAt": "2024-12-10T08:39:51.208Z"
         },
         {
             "title": "1 Station Preplanning Asset",
@@ -338,10 +344,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-10-04T13:18:26.219Z"
+                    "purchaseAt": "2023-10-04T13:18:26.219Z",
+                    "discountPurchaseAt": "2023-10-04T13:18:26.219Z"
                 }
             ],
             "itemQty": {},
@@ -355,7 +362,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-10T05:51:53.781Z",
-            "updatedAt": "2025-07-04T11:48:09.508Z"
+            "updatedAt": "2024-09-27T11:47:38.291Z"
         },
         {
             "title": "1 Stonk Preplanning Asset",
@@ -378,10 +385,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-07-03T11:39:09.987Z"
+                    "purchaseAt": "2024-07-03T11:39:09.987Z",
+                    "discountPurchaseAt": "2024-07-03T11:39:09.987Z"
                 }
             ],
             "itemQty": {},
@@ -395,7 +403,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-03T11:39:09.516Z",
-            "updatedAt": "2025-07-04T11:48:09.358Z"
+            "updatedAt": "2024-09-27T11:47:44.968Z"
         },
         {
             "title": "1 Villa Preplanning Asset",
@@ -417,10 +425,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-10-04T13:12:42.864Z"
+                    "purchaseAt": "2023-10-04T13:12:42.864Z",
+                    "discountPurchaseAt": "2023-10-04T13:12:42.864Z"
                 }
             ],
             "itemQty": {},
@@ -434,7 +443,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-10T05:51:53.773Z",
-            "updatedAt": "2025-07-04T11:48:09.493Z"
+            "updatedAt": "2024-09-27T11:47:38.312Z"
         },
         {
             "title": "2 BUST Preplanning Asset",
@@ -457,10 +466,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-12-18T16:00:19.483Z"
+                    "purchaseAt": "2024-12-18T16:00:19.483Z",
+                    "discountPurchaseAt": "2024-12-18T16:00:19.483Z"
                 }
             ],
             "itemQty": {},
@@ -470,7 +480,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-12-18T16:00:19.832Z",
-            "updatedAt": "2025-07-04T11:48:09.233Z"
+            "updatedAt": "2025-05-26T08:03:59.529Z"
         },
         {
             "title": "2 Chus Preplanning Asset",
@@ -493,10 +503,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-03-06T12:23:24.401Z"
+                    "purchaseAt": "2024-03-06T12:23:24.401Z",
+                    "discountPurchaseAt": "2024-03-06T12:23:24.401Z"
                 }
             ],
             "itemQty": {},
@@ -510,7 +521,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-03-06T12:23:24.172Z",
-            "updatedAt": "2025-07-04T11:48:09.425Z"
+            "updatedAt": "2024-09-27T11:47:41.684Z"
         },
         {
             "title": "2 Data Center Preplanning Asset",
@@ -533,10 +544,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-10-17T09:02:33.472Z"
+                    "purchaseAt": "2023-10-17T09:02:33.472Z",
+                    "discountPurchaseAt": "2023-10-17T09:02:33.472Z"
                 }
             ],
             "itemQty": {},
@@ -550,7 +562,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-10-17T09:02:33.956Z",
-            "updatedAt": "2025-07-04T11:48:09.467Z"
+            "updatedAt": "2024-09-27T11:47:39.757Z"
         },
         {
             "title": "2 Didi Preplanning Asset",
@@ -573,10 +585,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-05-22T11:32:49.743Z"
+                    "purchaseAt": "2024-05-22T11:32:49.743Z",
+                    "discountPurchaseAt": "2024-05-22T11:32:49.743Z"
                 }
             ],
             "itemQty": {},
@@ -590,7 +603,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-05-22T11:32:48.578Z",
-            "updatedAt": "2025-07-04T11:48:09.396Z"
+            "updatedAt": "2024-09-27T11:47:41.785Z"
         },
         {
             "title": "2 Fort Preplanning Asset",
@@ -613,10 +626,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-01-17T12:35:40.912Z"
+                    "purchaseAt": "2024-01-17T12:35:40.912Z",
+                    "discountPurchaseAt": "2024-01-17T12:35:40.912Z"
                 }
             ],
             "itemQty": {},
@@ -630,7 +644,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-01-17T12:35:40.965Z",
-            "updatedAt": "2025-07-04T11:48:09.584Z"
+            "updatedAt": "2024-09-27T11:47:38.012Z"
         },
         {
             "title": "pd3_preplanning_one_1",
@@ -653,10 +667,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-10-14T14:25:44.469Z"
+                    "purchaseAt": "2024-10-14T14:25:44.469Z",
+                    "discountPurchaseAt": "2024-10-14T14:25:44.469Z"
                 }
             ],
             "itemQty": {},
@@ -666,7 +681,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-10-14T14:25:45.550Z",
-            "updatedAt": "2025-07-04T11:48:09.311Z"
+            "updatedAt": "2024-12-10T08:39:51.184Z"
         },
         {
             "title": "2 Station Preplanning Asset",
@@ -688,10 +703,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-10-04T13:19:25.549Z"
+                    "purchaseAt": "2023-10-04T13:19:25.549Z",
+                    "discountPurchaseAt": "2023-10-04T13:19:25.549Z"
                 }
             ],
             "itemQty": {},
@@ -705,7 +721,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-10T05:51:53.794Z",
-            "updatedAt": "2025-07-04T11:48:09.518Z"
+            "updatedAt": "2024-09-27T11:47:38.281Z"
         },
         {
             "title": "2 Stonk Preplanning Asset",
@@ -728,10 +744,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-07-03T11:40:27.932Z"
+                    "purchaseAt": "2024-07-03T11:40:27.932Z",
+                    "discountPurchaseAt": "2024-07-03T11:40:27.932Z"
                 }
             ],
             "itemQty": {},
@@ -745,7 +762,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-03T11:40:27.441Z",
-            "updatedAt": "2025-07-04T11:48:09.347Z"
+            "updatedAt": "2024-09-27T11:47:44.977Z"
         },
         {
             "title": "2 Villa Preplanning Asset",
@@ -767,10 +784,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-10-04T13:14:56.000Z"
+                    "purchaseAt": "2023-10-04T13:14:56.000Z",
+                    "discountPurchaseAt": "2023-10-04T13:14:56.000Z"
                 }
             ],
             "itemQty": {},
@@ -784,7 +802,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-10T05:51:53.800Z",
-            "updatedAt": "2025-07-04T11:48:09.526Z"
+            "updatedAt": "2024-09-27T11:47:38.140Z"
         },
         {
             "title": "3 BUST Preplanning Asset",
@@ -807,10 +825,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-12-18T16:01:07.155Z"
+                    "purchaseAt": "2024-12-18T16:01:07.155Z",
+                    "discountPurchaseAt": "2024-12-18T16:01:07.155Z"
                 }
             ],
             "itemQty": {},
@@ -820,7 +839,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-12-18T16:01:07.513Z",
-            "updatedAt": "2025-07-04T11:48:09.224Z"
+            "updatedAt": "2025-05-26T08:03:59.554Z"
         },
         {
             "title": "3 Chus Preplanning Asset",
@@ -843,10 +862,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-03-06T12:24:23.861Z"
+                    "purchaseAt": "2024-03-06T12:24:23.861Z",
+                    "discountPurchaseAt": "2024-03-06T12:24:23.861Z"
                 }
             ],
             "itemQty": {},
@@ -860,7 +880,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-03-06T12:24:23.639Z",
-            "updatedAt": "2025-07-04T11:48:09.415Z"
+            "updatedAt": "2024-09-27T11:47:41.694Z"
         },
         {
             "title": "3 Data Center Preplanning Asset",
@@ -883,10 +903,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-10-17T09:03:33.141Z"
+                    "purchaseAt": "2023-10-17T09:03:33.141Z",
+                    "discountPurchaseAt": "2023-10-17T09:03:33.141Z"
                 }
             ],
             "itemQty": {},
@@ -900,7 +921,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-10-17T09:03:33.630Z",
-            "updatedAt": "2025-07-04T11:48:09.458Z"
+            "updatedAt": "2024-09-27T11:47:39.770Z"
         },
         {
             "title": "3 Didi Preplanning Asset",
@@ -923,10 +944,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-05-22T11:34:01.818Z"
+                    "purchaseAt": "2024-05-22T11:34:01.818Z",
+                    "discountPurchaseAt": "2024-05-22T11:34:01.818Z"
                 }
             ],
             "itemQty": {},
@@ -940,7 +962,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-05-22T11:34:00.542Z",
-            "updatedAt": "2025-07-04T11:48:09.386Z"
+            "updatedAt": "2024-09-27T11:47:41.797Z"
         },
         {
             "title": "3 Fort Preplanning Asset",
@@ -963,10 +985,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-01-17T12:36:46.397Z"
+                    "purchaseAt": "2024-01-17T12:36:46.397Z",
+                    "discountPurchaseAt": "2024-01-17T12:36:46.397Z"
                 }
             ],
             "itemQty": {},
@@ -980,7 +1003,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-01-17T12:36:46.434Z",
-            "updatedAt": "2025-07-04T11:48:09.571Z"
+            "updatedAt": "2024-09-27T11:47:38.021Z"
         },
         {
             "title": "1 ONE Preplanning Asset ",
@@ -1003,10 +1026,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-10-14T14:26:53.111Z"
+                    "purchaseAt": "2024-10-14T14:26:53.111Z",
+                    "discountPurchaseAt": "2024-10-14T14:26:53.111Z"
                 }
             ],
             "itemQty": {},
@@ -1020,7 +1044,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-10-14T14:26:54.193Z",
-            "updatedAt": "2025-07-04T11:48:09.281Z"
+            "updatedAt": "2024-12-10T08:39:51.202Z"
         },
         {
             "title": "3 Station Preplanning Asset",
@@ -1042,10 +1066,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-10-04T13:20:58.091Z"
+                    "purchaseAt": "2023-10-04T13:20:58.091Z",
+                    "discountPurchaseAt": "2023-10-04T13:20:58.091Z"
                 }
             ],
             "itemQty": {},
@@ -1059,7 +1084,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-10T05:51:53.780Z",
-            "updatedAt": "2025-07-04T11:48:09.501Z"
+            "updatedAt": "2024-09-27T11:47:38.300Z"
         },
         {
             "title": "3 Stonk Preplanning Asset",
@@ -1082,10 +1107,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-07-03T11:41:28.776Z"
+                    "purchaseAt": "2024-07-03T11:41:28.776Z",
+                    "discountPurchaseAt": "2024-07-03T11:41:28.776Z"
                 }
             ],
             "itemQty": {},
@@ -1099,7 +1125,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-03T11:41:28.277Z",
-            "updatedAt": "2025-07-04T11:48:09.332Z"
+            "updatedAt": "2024-09-27T11:47:44.985Z"
         },
         {
             "title": "3 Villa Preplanning Asset",
@@ -1121,10 +1147,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-10-04T13:16:13.125Z"
+                    "purchaseAt": "2023-10-04T13:16:13.125Z",
+                    "discountPurchaseAt": "2023-10-04T13:16:13.125Z"
                 }
             ],
             "itemQty": {},
@@ -1138,7 +1165,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-10T05:51:54.083Z",
-            "updatedAt": "2025-07-04T11:48:09.535Z"
+            "updatedAt": "2024-09-27T11:47:38.075Z"
         },
         {
             "title": "4 BUST Preplanning Asset",
@@ -1161,10 +1188,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-12-18T16:02:09.238Z"
+                    "purchaseAt": "2024-12-18T16:02:09.238Z",
+                    "discountPurchaseAt": "2024-12-18T16:02:09.238Z"
                 }
             ],
             "itemQty": {},
@@ -1174,7 +1202,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-12-18T16:02:09.578Z",
-            "updatedAt": "2025-07-04T11:48:09.215Z"
+            "updatedAt": "2025-05-26T08:03:59.559Z"
         },
         {
             "title": "4 Chus Preplanning Asset",
@@ -1197,10 +1225,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-03-06T12:25:14.674Z"
+                    "purchaseAt": "2024-03-06T12:25:14.674Z",
+                    "discountPurchaseAt": "2024-03-06T12:25:14.674Z"
                 }
             ],
             "itemQty": {},
@@ -1214,7 +1243,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-03-06T12:25:14.458Z",
-            "updatedAt": "2025-07-04T11:48:09.367Z"
+            "updatedAt": "2024-09-27T11:47:42.210Z"
         },
         {
             "title": "1 Data Center Preplanning Asset",
@@ -1237,10 +1266,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-10-17T09:04:25.614Z"
+                    "purchaseAt": "2023-10-17T09:04:25.614Z",
+                    "discountPurchaseAt": "2023-10-17T09:04:25.614Z"
                 }
             ],
             "itemQty": {},
@@ -1254,7 +1284,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-10-17T09:04:26.086Z",
-            "updatedAt": "2025-07-04T11:48:09.447Z"
+            "updatedAt": "2024-09-27T11:47:39.780Z"
         },
         {
             "title": "4 Didi Preplanning Asset",
@@ -1277,10 +1307,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-05-22T11:34:58.390Z"
+                    "purchaseAt": "2024-05-22T11:34:58.390Z",
+                    "discountPurchaseAt": "2024-05-22T11:34:58.390Z"
                 }
             ],
             "itemQty": {},
@@ -1294,7 +1325,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-05-22T11:34:57.116Z",
-            "updatedAt": "2025-07-04T11:48:09.376Z"
+            "updatedAt": "2024-09-27T11:47:41.807Z"
         },
         {
             "title": "4 Fort Preplanning Asset",
@@ -1317,10 +1348,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-01-17T12:37:42.342Z"
+                    "purchaseAt": "2024-01-17T12:37:42.342Z",
+                    "discountPurchaseAt": "2024-01-17T12:37:42.342Z"
                 }
             ],
             "itemQty": {},
@@ -1334,7 +1366,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-01-17T12:37:42.388Z",
-            "updatedAt": "2025-07-04T11:48:09.552Z"
+            "updatedAt": "2024-09-27T11:47:38.056Z"
         },
         {
             "title": "4 ONE Preplanning Asset ",
@@ -1357,10 +1389,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-10-14T14:28:09.247Z"
+                    "purchaseAt": "2024-10-14T14:28:09.247Z",
+                    "discountPurchaseAt": "2024-10-14T14:28:09.247Z"
                 }
             ],
             "itemQty": {},
@@ -1370,7 +1403,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-10-14T14:28:10.334Z",
-            "updatedAt": "2025-07-04T11:48:09.291Z"
+            "updatedAt": "2024-12-10T08:39:51.196Z"
         },
         {
             "title": "4 Station Preplanning Asset",
@@ -1392,10 +1425,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-10-04T13:21:50.011Z"
+                    "purchaseAt": "2023-10-04T13:21:50.011Z",
+                    "discountPurchaseAt": "2023-10-04T13:21:50.011Z"
                 }
             ],
             "itemQty": {},
@@ -1409,7 +1443,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-10T05:51:54.088Z",
-            "updatedAt": "2025-07-04T11:48:09.544Z"
+            "updatedAt": "2024-09-27T11:47:38.065Z"
         },
         {
             "title": "4 Stonk Preplanning Asset",
@@ -1432,10 +1466,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-07-03T11:42:33.366Z"
+                    "purchaseAt": "2024-07-03T11:42:33.366Z",
+                    "discountPurchaseAt": "2024-07-03T11:42:33.366Z"
                 }
             ],
             "itemQty": {},
@@ -1449,7 +1484,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-03T11:42:32.874Z",
-            "updatedAt": "2025-07-04T11:48:09.323Z"
+            "updatedAt": "2024-09-27T11:47:44.993Z"
         },
         {
             "title": "4 Villa Preplanning Asset",
@@ -1471,10 +1506,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-10-04T13:17:13.413Z"
+                    "purchaseAt": "2023-10-04T13:17:13.413Z",
+                    "discountPurchaseAt": "2023-10-04T13:17:13.413Z"
                 }
             ],
             "itemQty": {},
@@ -1488,7 +1524,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-10T05:51:54.115Z",
-            "updatedAt": "2025-07-04T11:48:09.562Z"
+            "updatedAt": "2024-09-27T11:47:38.043Z"
         },
         {
             "title": "5 ONE Preplanning Asset ",
@@ -1511,10 +1547,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-10-14T14:28:38.610Z"
+                    "purchaseAt": "2024-10-14T14:28:38.610Z",
+                    "discountPurchaseAt": "2024-10-14T14:28:38.610Z"
                 }
             ],
             "itemQty": {},
@@ -1524,7 +1561,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-10-14T14:28:39.696Z",
-            "updatedAt": "2025-07-04T11:48:09.300Z"
+            "updatedAt": "2024-12-10T08:39:51.191Z"
         },
         {
             "title": "50 PayDay Credits",
@@ -1589,10 +1626,11 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-10-14T14:29:02.136Z"
+                    "purchaseAt": "2024-10-14T14:29:02.136Z",
+                    "discountPurchaseAt": "2024-10-14T14:29:02.136Z"
                 }
             ],
             "itemQty": {},
@@ -1602,7 +1640,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-10-14T14:29:03.221Z",
-            "updatedAt": "2025-07-04T11:48:09.265Z"
+            "updatedAt": "2024-12-10T08:39:51.489Z"
         },
         {
             "title": "Adaptable Ballistic Vest ",
@@ -1660,8 +1698,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -1675,7 +1713,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-09-21T12:57:09.318Z",
-            "updatedAt": "2025-07-04T11:48:09.834Z"
+            "updatedAt": "2024-09-27T11:47:27.346Z"
         },
         {
             "title": "Additional Secure Point Night Club Preplanning asset",
@@ -1698,8 +1736,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -1713,7 +1751,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-08-31T14:15:07.626Z",
-            "updatedAt": "2025-07-04T11:48:09.693Z"
+            "updatedAt": "2024-09-27T11:47:29.803Z"
         },
         {
             "title": "Ammo Bag",
@@ -2940,8 +2978,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -2955,7 +2993,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-09-21T13:20:23.016Z",
-            "updatedAt": "2025-07-04T11:48:09.668Z"
+            "updatedAt": "2024-09-27T11:47:29.858Z"
         },
         {
             "title": "Cash",
@@ -3614,8 +3652,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -3629,7 +3667,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-08-31T14:20:51.295Z",
-            "updatedAt": "2025-07-04T11:48:09.205Z"
+            "updatedAt": "2024-09-27T11:47:29.777Z"
         },
         {
             "title": "Customizable Suit - Vest",
@@ -4819,8 +4857,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -4834,7 +4872,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-10-19T13:26:55.524Z",
-            "updatedAt": "2025-07-04T11:48:09.633Z"
+            "updatedAt": "2024-09-27T11:47:32.350Z"
         },
         {
             "title": "Elevator Shaft Sharke Bank Preplanning Asset",
@@ -4857,8 +4895,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -4872,7 +4910,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-08-12T06:13:58.120Z",
-            "updatedAt": "2025-07-04T11:48:09.685Z"
+            "updatedAt": "2024-09-27T11:47:29.816Z"
         },
         {
             "title": "Employee Backdoor Jewelry Store Preplanning asset",
@@ -4895,8 +4933,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -4910,7 +4948,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-09-23T11:12:23.713Z",
-            "updatedAt": "2025-07-04T11:48:09.157Z"
+            "updatedAt": "2024-09-27T11:47:29.685Z"
         },
         {
             "title": "Empress Mask Mould",
@@ -10612,8 +10650,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -10627,7 +10665,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-09-21T13:16:29.873Z",
-            "updatedAt": "2025-07-04T11:48:09.745Z"
+            "updatedAt": "2024-09-27T11:47:29.698Z"
         },
         {
             "title": "Escape Van Jewelry Store Preplanning asset",
@@ -10650,8 +10688,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -10665,7 +10703,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-09-21T13:09:34.272Z",
-            "updatedAt": "2025-07-04T11:48:09.724Z"
+            "updatedAt": "2024-09-27T11:47:29.718Z"
         },
         {
             "title": "Event Mask 01",
@@ -11093,8 +11131,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -11108,7 +11146,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-10-19T13:19:13.224Z",
-            "updatedAt": "2025-07-04T11:48:09.785Z"
+            "updatedAt": "2024-09-27T11:47:29.566Z"
         },
         {
             "title": "Gloves - Gold Edition",
@@ -15295,6 +15333,41 @@
         },
         {
             "title": "Heist Art Gallery",
+            "itemId": "489d79f9aab64f449f67748aa97259d0",
+            "baseAppId": "",
+            "sku": "pd3_heist_art_gallery",
+            "namespace": "pd3",
+            "name": "Heist Art Gallery",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Heist",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 0,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2023-10-31T14:31:38.567Z",
+                    "discountPurchaseAt": "2023-10-31T14:31:38.567Z"
+                }
+            ],
+            "itemQty": {},
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2023-10-31T14:31:37.968Z",
+            "updatedAt": "2024-09-27T11:47:24.857Z"
+        },
+        {
+            "title": "Heist Art Gallery",
             "itemId": "66e4918f797d4bd0b8e8eb43e8a15687",
             "baseAppId": "",
             "sku": "pd3_steam_heist_art_gallery",
@@ -15331,41 +15404,6 @@
             "language": "en-US",
             "createdAt": "2023-10-31T12:21:08.848Z",
             "updatedAt": "2024-09-27T11:47:39.807Z"
-        },
-        {
-            "title": "Heist Art Gallery",
-            "itemId": "489d79f9aab64f449f67748aa97259d0",
-            "baseAppId": "",
-            "sku": "pd3_heist_art_gallery",
-            "namespace": "pd3",
-            "name": "Heist Art Gallery",
-            "entitlementType": "DURABLE",
-            "categoryPath": "/Heist",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": true,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-10-31T14:31:38.567Z",
-                    "discountPurchaseAt": "2023-10-31T14:31:38.567Z"
-                }
-            ],
-            "itemQty": {},
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-10-31T14:31:37.968Z",
-            "updatedAt": "2024-09-27T11:47:24.857Z"
         },
         {
             "title": "Heist Branch Bank",
@@ -15452,14 +15490,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-07-09T08:32:56.858Z"
+                    "purchaseAt": "2024-07-09T08:32:56.858Z",
+                    "discountPurchaseAt": "2024-07-09T08:32:56.858Z"
                 }
             ],
             "itemQty": {},
@@ -15479,7 +15518,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-09T08:32:57.875Z",
-            "updatedAt": "2025-07-04T11:56:51.502Z"
+            "updatedAt": "2024-09-27T11:47:41.653Z"
         },
         {
             "title": "Heist Courthouse PlayStation",
@@ -15496,14 +15535,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-07-09T08:40:59.646Z"
+                    "purchaseAt": "2024-07-09T08:40:59.646Z",
+                    "discountPurchaseAt": "2024-07-09T08:40:59.646Z"
                 }
             ],
             "itemQty": {},
@@ -15523,7 +15563,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-09T08:41:00.765Z",
-            "updatedAt": "2025-07-04T11:56:51.469Z"
+            "updatedAt": "2024-09-27T11:47:43.358Z"
         },
         {
             "title": "Heist Courthouse Steam",
@@ -15540,14 +15580,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-07-09T08:39:37.836Z"
+                    "purchaseAt": "2024-07-09T08:39:37.836Z",
+                    "discountPurchaseAt": "2024-07-09T08:39:37.836Z"
                 }
             ],
             "itemQty": {},
@@ -15567,7 +15608,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-09T08:39:38.869Z",
-            "updatedAt": "2025-07-04T11:56:51.402Z"
+            "updatedAt": "2024-09-27T11:47:44.567Z"
         },
         {
             "title": "Heist Courthouse XBox",
@@ -15584,14 +15625,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-07-09T08:42:37.061Z"
+                    "purchaseAt": "2024-07-09T08:42:37.061Z",
+                    "discountPurchaseAt": "2024-07-09T08:42:37.061Z"
                 }
             ],
             "itemQty": {},
@@ -15611,7 +15653,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-09T08:42:38.083Z",
-            "updatedAt": "2025-07-04T11:56:51.434Z"
+            "updatedAt": "2024-09-27T11:47:43.623Z"
         },
         {
             "title": "Heist Data Center Epic",
@@ -15628,14 +15670,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-11-02T12:36:25.872Z"
+                    "purchaseAt": "2023-11-02T12:36:25.872Z",
+                    "discountPurchaseAt": "2023-11-02T12:36:25.872Z"
                 }
             ],
             "itemQty": {},
@@ -15655,7 +15698,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-02T12:36:25.444Z",
-            "updatedAt": "2025-07-04T11:56:51.485Z"
+            "updatedAt": "2024-09-27T11:47:41.757Z"
         },
         {
             "title": "Heist Data Center PlayStation",
@@ -15674,14 +15717,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-11-02T12:34:51.822Z"
+                    "purchaseAt": "2023-11-02T12:34:51.822Z",
+                    "discountPurchaseAt": "2023-11-02T12:34:51.822Z"
                 }
             ],
             "itemQty": {},
@@ -15702,7 +15746,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-02T12:34:51.411Z",
-            "updatedAt": "2025-07-04T11:56:51.453Z"
+            "updatedAt": "2024-09-27T11:47:43.404Z"
         },
         {
             "title": "Data Center Steam",
@@ -15719,14 +15763,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-11-02T07:22:18.366Z"
+                    "purchaseAt": "2023-11-02T07:22:18.366Z",
+                    "discountPurchaseAt": "2023-11-02T07:22:18.366Z"
                 }
             ],
             "itemQty": {},
@@ -15746,7 +15791,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-02T07:22:15.045Z",
-            "updatedAt": "2025-07-04T11:56:51.386Z"
+            "updatedAt": "2024-09-27T11:47:44.872Z"
         },
         {
             "title": "Heist Data Center Xbox",
@@ -15763,14 +15808,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-11-02T12:35:48.073Z"
+                    "purchaseAt": "2023-11-02T12:35:48.073Z",
+                    "discountPurchaseAt": "2023-11-02T12:35:48.073Z"
                 }
             ],
             "itemQty": {},
@@ -15790,7 +15836,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-02T12:35:47.654Z",
-            "updatedAt": "2025-07-04T11:56:51.418Z"
+            "updatedAt": "2024-09-27T11:47:43.642Z"
         },
         {
             "title": "Heist Diamond District",
@@ -15842,14 +15888,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-11-02T12:33:29.524Z"
+                    "purchaseAt": "2023-11-02T12:33:29.524Z",
+                    "discountPurchaseAt": "2023-11-02T12:33:29.524Z"
                 }
             ],
             "itemQty": {},
@@ -15870,7 +15917,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-02T12:33:29.110Z",
-            "updatedAt": "2025-07-04T11:56:51.494Z"
+            "updatedAt": "2024-09-27T11:47:41.714Z"
         },
         {
             "title": "Heist Fort PlayStation",
@@ -15887,14 +15934,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-11-02T12:31:46.361Z"
+                    "purchaseAt": "2023-11-02T12:31:46.361Z",
+                    "discountPurchaseAt": "2023-11-02T12:31:46.361Z"
                 }
             ],
             "itemQty": {},
@@ -15914,7 +15962,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-02T12:31:45.961Z",
-            "updatedAt": "2025-07-04T11:56:51.460Z"
+            "updatedAt": "2024-09-27T11:47:43.394Z"
         },
         {
             "title": "Heist Fort Steam",
@@ -15931,14 +15979,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-11-02T12:30:37.773Z"
+                    "purchaseAt": "2023-11-02T12:30:37.773Z",
+                    "discountPurchaseAt": "2023-11-02T12:30:37.773Z"
                 }
             ],
             "itemQty": {},
@@ -15958,7 +16007,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-02T12:30:37.357Z",
-            "updatedAt": "2025-07-04T11:56:51.395Z"
+            "updatedAt": "2024-09-27T11:47:44.773Z"
         },
         {
             "title": "Heist Fort XBox",
@@ -15975,14 +16024,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-11-02T12:32:40.734Z"
+                    "purchaseAt": "2023-11-02T12:32:40.734Z",
+                    "discountPurchaseAt": "2023-11-02T12:32:40.734Z"
                 }
             ],
             "itemQty": {},
@@ -16002,7 +16052,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-02T12:32:40.310Z",
-            "updatedAt": "2025-07-04T11:56:51.426Z"
+            "updatedAt": "2024-09-27T11:47:43.632Z"
         },
         {
             "title": "Heist Gold Sharke",
@@ -16162,14 +16212,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2025-01-28T15:18:33.206Z"
+                    "purchaseAt": "2025-01-28T15:18:33.206Z",
+                    "discountPurchaseAt": "2025-01-28T15:18:33.206Z"
                 }
             ],
             "itemQty": {},
@@ -16188,7 +16239,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2025-01-28T15:18:33.183Z",
-            "updatedAt": "2025-07-04T11:56:51.359Z"
+            "updatedAt": "2025-05-26T08:03:59.634Z"
         },
         {
             "title": "Heist Party Powder Playstation",
@@ -16205,14 +16256,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2025-01-28T15:26:32.824Z"
+                    "purchaseAt": "2025-01-28T15:26:32.824Z",
+                    "discountPurchaseAt": "2025-01-28T15:26:32.824Z"
                 }
             ],
             "itemQty": {},
@@ -16231,7 +16283,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2025-01-28T15:26:32.804Z",
-            "updatedAt": "2025-07-04T11:56:51.342Z"
+            "updatedAt": "2025-05-26T08:03:59.644Z"
         },
         {
             "title": "Heist Party Powder Steam",
@@ -16248,14 +16300,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2025-01-28T12:56:39.519Z"
+                    "purchaseAt": "2025-01-28T12:56:39.519Z",
+                    "discountPurchaseAt": "2025-01-28T12:56:39.519Z"
                 }
             ],
             "itemQty": {},
@@ -16274,7 +16327,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2025-01-28T12:56:39.393Z",
-            "updatedAt": "2025-07-04T11:56:51.368Z"
+            "updatedAt": "2025-05-26T08:03:59.629Z"
         },
         {
             "title": "Heist Party Powder Xbox",
@@ -16291,14 +16344,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2025-01-28T15:25:18.089Z"
+                    "purchaseAt": "2025-01-28T15:25:18.089Z",
+                    "discountPurchaseAt": "2025-01-28T15:25:18.089Z"
                 }
             ],
             "itemQty": {},
@@ -16317,7 +16371,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2025-01-28T15:25:18.084Z",
-            "updatedAt": "2025-07-04T11:56:51.377Z"
+            "updatedAt": "2025-05-26T08:03:59.623Z"
         },
         {
             "title": "Heist Pent House",
@@ -16474,14 +16528,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-08-23T09:10:57.181Z"
+                    "purchaseAt": "2024-08-23T09:10:57.181Z",
+                    "discountPurchaseAt": "2024-08-23T09:10:57.181Z"
                 }
             ],
             "itemQty": {},
@@ -16500,7 +16555,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-08-23T09:10:57.277Z",
-            "updatedAt": "2025-07-04T11:56:51.511Z"
+            "updatedAt": "2024-09-27T11:47:41.570Z"
         },
         {
             "title": "Heist Stock Exchange PlayStation",
@@ -16517,14 +16572,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-08-16T13:25:19.721Z"
+                    "purchaseAt": "2024-08-16T13:25:19.721Z",
+                    "discountPurchaseAt": "2024-08-16T13:25:19.721Z"
                 }
             ],
             "itemQty": {},
@@ -16543,7 +16599,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-08-16T13:25:19.998Z",
-            "updatedAt": "2025-07-04T11:56:51.477Z"
+            "updatedAt": "2024-09-27T11:47:43.345Z"
         },
         {
             "title": "Heist Stock Exchange Steam",
@@ -16560,14 +16616,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-08-16T13:26:57.756Z"
+                    "purchaseAt": "2024-08-16T13:26:57.756Z",
+                    "discountPurchaseAt": "2024-08-16T13:26:57.756Z"
                 }
             ],
             "itemQty": {},
@@ -16586,7 +16643,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-08-16T13:26:58.034Z",
-            "updatedAt": "2025-07-04T11:56:51.410Z"
+            "updatedAt": "2024-09-27T11:47:44.110Z"
         },
         {
             "title": "Heist Stock Exchange XBox",
@@ -16603,14 +16660,15 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 1000,
+                    "price": 0,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2024-08-16T13:29:53.747Z"
+                    "purchaseAt": "2024-08-16T13:29:53.747Z",
+                    "discountPurchaseAt": "2024-08-16T13:29:53.747Z"
                 }
             ],
             "itemQty": {},
@@ -16629,7 +16687,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-08-16T13:29:54.029Z",
-            "updatedAt": "2025-07-04T11:56:51.444Z"
+            "updatedAt": "2024-09-27T11:47:43.613Z"
         },
         {
             "title": "Heist Transport",
@@ -16722,8 +16780,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -16737,7 +16795,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-09-23T11:20:54.842Z",
-            "updatedAt": "2025-07-04T11:48:09.188Z"
+            "updatedAt": "2024-09-27T11:47:29.634Z"
         },
         {
             "title": "Hoxton Mould",
@@ -16841,8 +16899,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -16856,7 +16914,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-09-23T11:11:06.156Z",
-            "updatedAt": "2025-07-04T11:48:09.708Z"
+            "updatedAt": "2024-09-27T11:47:29.764Z"
         },
         {
             "title": "Joy Mould",
@@ -16921,8 +16979,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -16936,7 +16994,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-09-21T13:00:46.321Z",
-            "updatedAt": "2025-07-04T11:48:09.170Z"
+            "updatedAt": "2024-09-27T11:47:29.658Z"
         },
         {
             "title": "Keycard Branch Bank Preplanning asset",
@@ -16959,8 +17017,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -16974,7 +17032,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-10-19T13:17:31.806Z",
-            "updatedAt": "2025-07-04T11:48:09.761Z"
+            "updatedAt": "2024-09-27T11:47:29.596Z"
         },
         {
             "title": "LMG MX63",
@@ -17037,8 +17095,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -17052,7 +17110,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-10-19T13:26:16.732Z",
-            "updatedAt": "2025-07-04T11:48:09.618Z"
+            "updatedAt": "2024-09-27T11:47:32.366Z"
         },
         {
             "title": "MOD A114 Barrel CQC",
@@ -26786,12 +26844,12 @@
             "itemType": "INGAMEITEM",
             "regionData": [
                 {
-                    "price": 100000,
+                    "price": 10000000,
                     "discountPercentage": 0,
                     "discountAmount": 0,
-                    "discountedPrice": 100000,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
+                    "discountedPrice": 10000000,
+                    "currencyCode": "USD",
+                    "currencyType": "REAL",
                     "currencyNamespace": "pd3",
                     "purchaseAt": "2025-06-16T11:37:15.749Z"
                 }
@@ -26806,7 +26864,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2025-06-16T11:37:15.763Z",
-            "updatedAt": "2025-07-01T07:22:12.015Z"
+            "updatedAt": "2025-06-25T08:05:14.796Z"
         },
         {
             "title": "MOD Spearfish Stock Supported",
@@ -28691,8 +28749,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -28706,7 +28764,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-09-21T13:08:11.035Z",
-            "updatedAt": "2025-07-04T11:48:09.716Z"
+            "updatedAt": "2024-09-27T11:47:29.731Z"
         },
         {
             "title": "Marksman M14",
@@ -31915,8 +31973,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -31930,7 +31988,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-10-19T13:27:44.397Z",
-            "updatedAt": "2025-07-04T11:48:09.643Z"
+            "updatedAt": "2024-09-27T11:47:32.336Z"
         },
         {
             "title": "More Planks Armored Transport Preplanning asset",
@@ -31953,8 +32011,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -31968,7 +32026,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-10-19T13:21:41.992Z",
-            "updatedAt": "2025-07-04T11:48:09.811Z"
+            "updatedAt": "2024-09-27T11:47:29.514Z"
         },
         {
             "title": "More Thermite Branch Bank Preplanning asset",
@@ -31991,8 +32049,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -32006,7 +32064,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-10-19T13:18:16.144Z",
-            "updatedAt": "2025-07-04T11:48:09.776Z"
+            "updatedAt": "2024-09-27T11:47:29.578Z"
         },
         {
             "title": "Open Door Art Gallery Preplanning asset",
@@ -32029,8 +32087,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -32044,7 +32102,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-09-21T13:02:39.376Z",
-            "updatedAt": "2025-07-04T11:48:09.180Z"
+            "updatedAt": "2024-09-27T11:47:29.647Z"
         },
         {
             "title": "Operator Overskill",
@@ -34894,11 +34952,11 @@
             "itemQty": {},
             "features": [],
             "maxCountPerUser": 1,
-            "maxCount": -1,
+            "maxCount": 1,
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-10-15T12:37:45.026Z",
-            "updatedAt": "2025-07-14T13:55:16.807Z"
+            "updatedAt": "2025-02-03T09:08:00.302Z"
         },
         {
             "title": "PD3 Mask Pattern Wrestler 01",
@@ -41044,8 +41102,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -41059,7 +41117,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-10-19T13:24:37.835Z",
-            "updatedAt": "2025-07-04T11:48:09.826Z"
+            "updatedAt": "2024-09-27T11:47:29.485Z"
         },
         {
             "title": "Pre-Bundled Mask - Nebula",
@@ -44420,8 +44478,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -44435,7 +44493,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-10-19T13:19:54.852Z",
-            "updatedAt": "2025-07-04T11:48:09.793Z"
+            "updatedAt": "2024-09-27T11:47:29.538Z"
         },
         {
             "title": "Revolver Bison",
@@ -45578,8 +45636,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -45593,7 +45651,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-10-19T13:16:48.791Z",
-            "updatedAt": "2025-07-04T11:48:09.752Z"
+            "updatedAt": "2024-09-27T11:47:29.609Z"
         },
         {
             "title": "Sentry Gun",
@@ -46039,8 +46097,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -46054,7 +46112,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-10-19T13:20:39.309Z",
-            "updatedAt": "2025-07-04T11:48:09.801Z"
+            "updatedAt": "2024-09-27T11:47:29.526Z"
         },
         {
             "title": "Spray Paint Can Colour 1",
@@ -55254,6 +55312,49 @@
         },
         {
             "title": "Steam Tailor pack 01 gloves 03",
+            "itemId": "4466f7c8e32141c5b5a0e1e4691a1803",
+            "baseAppId": "",
+            "sku": "steam_pd3_cosmetic_tailorpack_01_gloves_03",
+            "namespace": "pd3",
+            "name": "Steam Tailor pack 01 gloves 03",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Gloves",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 0,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2023-11-15T13:06:13.403Z",
+                    "discountPurchaseAt": "2023-11-15T13:06:13.403Z"
+                }
+            ],
+            "itemQty": {},
+            "boundItemIds": [
+                "9f7a29d54a5c4e20a8c8176c7b1ecf01"
+            ],
+            "tags": [
+                "PlatformOnly",
+                "Steam",
+                "Premium"
+            ],
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2023-11-15T13:05:59.240Z",
+            "updatedAt": "2024-12-10T08:39:51.494Z"
+        },
+        {
+            "title": "Steam Tailor pack 01 gloves 03",
             "itemId": "8e93faab93644527a7682a49ddb71196",
             "baseAppId": "",
             "sku": "pd3_steam_cosmetic_tailorpack_01_gloves_03",
@@ -55296,49 +55397,6 @@
             "language": "en-US",
             "createdAt": "2023-11-16T07:17:29.881Z",
             "updatedAt": "2024-09-27T11:47:44.831Z"
-        },
-        {
-            "title": "Steam Tailor pack 01 gloves 03",
-            "itemId": "4466f7c8e32141c5b5a0e1e4691a1803",
-            "baseAppId": "",
-            "sku": "steam_pd3_cosmetic_tailorpack_01_gloves_03",
-            "namespace": "pd3",
-            "name": "Steam Tailor pack 01 gloves 03",
-            "entitlementType": "DURABLE",
-            "categoryPath": "/Gloves",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": true,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-11-15T13:06:13.403Z",
-                    "discountPurchaseAt": "2023-11-15T13:06:13.403Z"
-                }
-            ],
-            "itemQty": {},
-            "boundItemIds": [
-                "9f7a29d54a5c4e20a8c8176c7b1ecf01"
-            ],
-            "tags": [
-                "PlatformOnly",
-                "Steam",
-                "Premium"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-11-15T13:05:59.240Z",
-            "updatedAt": "2024-12-10T08:39:51.494Z"
         },
         {
             "title": "Steam Tailor pack 01 gloves 04",
@@ -58514,8 +58572,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -58529,7 +58587,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-09-21T13:27:02.526Z",
-            "updatedAt": "2025-07-04T11:48:09.660Z"
+            "updatedAt": "2024-09-27T11:47:29.950Z"
         },
         {
             "title": "Thermal Lance Sharke Bank Preplanning Asset",
@@ -58552,8 +58610,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -58567,7 +58625,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-08-12T06:14:45.466Z",
-            "updatedAt": "2025-07-04T11:48:09.676Z"
+            "updatedAt": "2024-09-27T11:47:29.840Z"
         },
         {
             "title": "Thermite Drop Cargo Dock Preplanning asset",
@@ -58590,8 +58648,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -58605,7 +58663,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-10-19T13:28:25.142Z",
-            "updatedAt": "2025-07-04T11:48:09.652Z"
+            "updatedAt": "2024-09-27T11:47:31.956Z"
         },
         {
             "title": "Thermite Penthouse Preplanning asset",
@@ -58628,8 +58686,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -58643,7 +58701,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-10-19T13:24:00.291Z",
-            "updatedAt": "2025-07-04T11:48:09.842Z"
+            "updatedAt": "2024-09-27T11:47:27.116Z"
         },
         {
             "title": "ThrowingKnife",
@@ -60396,8 +60454,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -60411,7 +60469,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-10-19T13:15:46.328Z",
-            "updatedAt": "2025-07-04T11:48:09.197Z"
+            "updatedAt": "2024-09-27T11:47:29.622Z"
         },
         {
             "title": "Vault Code Night Club Preplanning asset",
@@ -60434,8 +60492,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1999,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -60449,7 +60507,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-08-31T14:16:20.704Z",
-            "updatedAt": "2025-07-04T11:48:09.701Z"
+            "updatedAt": "2024-09-27T11:47:29.789Z"
         },
         {
             "title": "Vent Secure Point Penthouse Preplanning asset",
@@ -60472,8 +60530,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -60487,7 +60545,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-10-19T13:25:18.714Z",
-            "updatedAt": "2025-07-04T11:48:09.610Z"
+            "updatedAt": "2024-09-27T11:47:32.378Z"
         },
         {
             "title": "Weapon Charm - Nebula Signup",
@@ -62893,8 +62951,8 @@
                     "discountPercentage": 0,
                     "discountAmount": 0,
                     "discountedPrice": 1000,
-                    "currencyCode": "USD",
-                    "currencyType": "REAL",
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3"
                 }
             ],
@@ -62908,7 +62966,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2022-10-19T13:23:14.655Z",
-            "updatedAt": "2025-07-04T11:48:09.818Z"
+            "updatedAt": "2024-09-27T11:47:29.502Z"
         },
         {
             "title": "Wolf Mould",
