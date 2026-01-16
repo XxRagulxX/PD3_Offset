@@ -437,6 +437,86 @@
             "updatedAt": "2025-07-04T11:48:09.493Z"
         },
         {
+            "title": "1 dema preplanning asset",
+            "itemId": "e0f765b3238541188be9a5b3a2de2551",
+            "baseAppId": "",
+            "sku": "pd3_preplanning_dema_1",
+            "namespace": "pd3",
+            "name": "1 dema preplanning asset",
+            "entitlementType": "CONSUMABLE",
+            "useCount": 1,
+            "stackable": true,
+            "categoryPath": "/PreplanningAssets",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 70000,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 70000,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-09-02T11:30:22.032Z"
+                }
+            ],
+            "itemQty": {},
+            "tags": [
+                "CombatEquipmentVendor",
+                "DemaPreplanningCategory"
+            ],
+            "features": [],
+            "maxCountPerUser": -1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-09-02T11:30:22.163Z",
+            "updatedAt": "2026-01-13T08:51:46.670Z"
+        },
+        {
+            "title": "1 shiya preplanning asset",
+            "itemId": "e7b485d0b3e74c1aaa256d1bda94be17",
+            "baseAppId": "",
+            "sku": "pd3_preplanning_shiya_1",
+            "namespace": "pd3",
+            "name": "1 shiya preplanning asset",
+            "entitlementType": "CONSUMABLE",
+            "useCount": 1,
+            "stackable": true,
+            "categoryPath": "/PreplanningAssets",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 15000,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 15000,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-03-17T09:46:08.762Z"
+                }
+            ],
+            "itemQty": {},
+            "tags": [
+                "CombatEquipmentVendor",
+                "ShiyaPreplanningCategory"
+            ],
+            "features": [],
+            "maxCountPerUser": -1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-03-17T09:46:15.333Z",
+            "updatedAt": "2025-09-10T07:52:00.913Z"
+        },
+        {
             "title": "2 BUST Preplanning Asset",
             "itemId": "9c20941d5d73418abb6dd3a41f2be061",
             "baseAppId": "",
@@ -785,6 +865,86 @@
             "language": "en-US",
             "createdAt": "2023-11-10T05:51:53.800Z",
             "updatedAt": "2025-07-04T11:48:09.526Z"
+        },
+        {
+            "title": "2 dema preplanning asset",
+            "itemId": "fc1a755c30464c75a6a16df5e6c78b26",
+            "baseAppId": "",
+            "sku": "pd3_preplanning_dema_2",
+            "namespace": "pd3",
+            "name": "2 dema preplanning asset",
+            "entitlementType": "CONSUMABLE",
+            "useCount": 1,
+            "stackable": true,
+            "categoryPath": "/PreplanningAssets",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 15000,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 15000,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-09-02T11:35:17.688Z"
+                }
+            ],
+            "itemQty": {},
+            "tags": [
+                "CombatEquipmentVendor",
+                "DemaPreplanningCategory"
+            ],
+            "features": [],
+            "maxCountPerUser": -1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-09-02T11:35:17.800Z",
+            "updatedAt": "2026-01-13T08:51:46.692Z"
+        },
+        {
+            "title": "2 shiya preplanning asset",
+            "itemId": "22db3e56b7034cea9743d70f4eb87db2",
+            "baseAppId": "",
+            "sku": "pd3_preplanning_shiya_2",
+            "namespace": "pd3",
+            "name": "2 shiya preplanning asset",
+            "entitlementType": "CONSUMABLE",
+            "useCount": 1,
+            "stackable": true,
+            "categoryPath": "/PreplanningAssets",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 105000,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 105000,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-03-17T09:47:40.950Z"
+                }
+            ],
+            "itemQty": {},
+            "tags": [
+                "CombatEquipmentVendor",
+                "ShiyaPreplanningCategory"
+            ],
+            "features": [],
+            "maxCountPerUser": -1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-03-17T09:47:47.388Z",
+            "updatedAt": "2025-09-10T07:52:00.902Z"
         },
         {
             "title": "3 BUST Preplanning Asset",
@@ -1141,6 +1301,86 @@
             "updatedAt": "2025-07-04T11:48:09.535Z"
         },
         {
+            "title": "3 dema preplanning asset",
+            "itemId": "b4572cdeaaa04c3681cd71d9989184ee",
+            "baseAppId": "",
+            "sku": "pd3_preplanning_dema_3",
+            "namespace": "pd3",
+            "name": "3 dema preplanning asset",
+            "entitlementType": "CONSUMABLE",
+            "useCount": 1,
+            "stackable": true,
+            "categoryPath": "/PreplanningAssets",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 60000,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 60000,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-09-02T11:37:13.612Z"
+                }
+            ],
+            "itemQty": {},
+            "tags": [
+                "CombatEquipmentVendor",
+                "DemaPreplanningCategory"
+            ],
+            "features": [],
+            "maxCountPerUser": -1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-09-02T11:37:13.725Z",
+            "updatedAt": "2026-01-13T08:51:46.699Z"
+        },
+        {
+            "title": "3 shiya preplanning asset",
+            "itemId": "839d4408edce4aadb4da918361da0368",
+            "baseAppId": "",
+            "sku": "pd3_preplanning_shiya_3",
+            "namespace": "pd3",
+            "name": "3 shiya preplanning asset",
+            "entitlementType": "CONSUMABLE",
+            "useCount": 1,
+            "stackable": true,
+            "categoryPath": "/PreplanningAssets",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 85000,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 85000,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-03-17T09:48:47.246Z"
+                }
+            ],
+            "itemQty": {},
+            "tags": [
+                "CombatEquipmentVendor",
+                "ShiyaPreplanningCategory"
+            ],
+            "features": [],
+            "maxCountPerUser": -1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-03-17T09:48:53.693Z",
+            "updatedAt": "2025-09-10T07:52:00.908Z"
+        },
+        {
             "title": "4 BUST Preplanning Asset",
             "itemId": "35b815dd0a7945bfa6020c6526f9da52",
             "baseAppId": "",
@@ -1489,6 +1729,86 @@
             "language": "en-US",
             "createdAt": "2023-11-10T05:51:54.115Z",
             "updatedAt": "2025-07-04T11:48:09.562Z"
+        },
+        {
+            "title": "4 dema preplanning asset",
+            "itemId": "4ea50a7ae4274b14b66d3ee0af107286",
+            "baseAppId": "",
+            "sku": "pd3_preplanning_dema_4",
+            "namespace": "pd3",
+            "name": "4 dema preplanning asset",
+            "entitlementType": "CONSUMABLE",
+            "useCount": 1,
+            "stackable": true,
+            "categoryPath": "/PreplanningAssets",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 40000,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 40000,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-09-02T11:38:02.573Z"
+                }
+            ],
+            "itemQty": {},
+            "tags": [
+                "CombatEquipmentVendor",
+                "DemaPreplanningCategory"
+            ],
+            "features": [],
+            "maxCountPerUser": -1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-09-02T11:38:02.686Z",
+            "updatedAt": "2026-01-13T08:51:46.712Z"
+        },
+        {
+            "title": "4 shiya preplanning asset",
+            "itemId": "0ddfdac3ef7943428c2b938ed4072863",
+            "baseAppId": "",
+            "sku": "pd3_preplanning_shiya_4",
+            "namespace": "pd3",
+            "name": "4 shiya preplanning asset",
+            "entitlementType": "CONSUMABLE",
+            "useCount": 1,
+            "stackable": true,
+            "categoryPath": "/PreplanningAssets",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 62000,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 62000,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-03-17T09:50:19.075Z"
+                }
+            ],
+            "itemQty": {},
+            "tags": [
+                "CombatEquipmentVendor",
+                "ShiyaPreplanningCategory"
+            ],
+            "features": [],
+            "maxCountPerUser": -1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-03-17T09:50:25.522Z",
+            "updatedAt": "2025-09-10T07:52:00.962Z"
         },
         {
             "title": "5 ONE Preplanning Asset ",
@@ -5211,16 +5531,22 @@
                 "e62d0e7e0cfe4adbb6b5d22fd3aa0147": 1
             },
             "tags": [
+                "Secondrow",
                 "PlatformOnly",
-                "epic"
+                "epic",
+                "MarketDealVendor"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": 1,
+            "ext": {
+                "EpicStoreProductId": "payday-3--jacket-character-pack",
+                "FirstPartyProductId": "f45b5a78522d4af9af8a52c384eddc62"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-10-30T15:28:28.393Z",
-            "updatedAt": "2025-02-03T09:08:00.477Z"
+            "updatedAt": "2025-12-02T08:58:58.200Z"
         },
         {
             "title": "Epic Character Fool  01",
@@ -5341,15 +5667,21 @@
             },
             "tags": [
                 "PlatformOnly",
-                "Epic"
+                "Epic",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "EpicStoreProductId": "payday-3--syntax-error-heist",
+                "FirstPartyProductId": "5a8331e90dab4855a9d3f48f1016de1b"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-10T13:51:44.748Z",
-            "updatedAt": "2024-09-27T11:47:25.570Z"
+            "updatedAt": "2025-12-02T08:58:58.711Z"
         },
         {
             "title": "Epic DLC01 Weapon pack ",
@@ -5407,15 +5739,21 @@
             },
             "tags": [
                 "PlatformOnly",
-                "Epic"
+                "Epic",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "EpicStoreProductId": "payday-3--syntax-error-tailor-pack",
+                "FirstPartyProductId": "7892750962b64a30a90c9b20c9823a80"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-15T15:05:43.188Z",
-            "updatedAt": "2024-09-27T11:47:25.350Z"
+            "updatedAt": "2025-12-02T08:58:58.550Z"
         },
         {
             "title": "Epic DLC01 Weapon pack ",
@@ -5461,15 +5799,21 @@
             },
             "tags": [
                 "PlatformOnly",
-                "Epic"
+                "Epic",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "EpicStoreProductId": "payday-3--syntax-error-weapon-pack",
+                "FirstPartyProductId": "40e9ebf0d8fc4e2abc23012e9900bef1"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-10T13:27:03.919Z",
-            "updatedAt": "2024-09-27T11:47:24.692Z"
+            "updatedAt": "2025-12-02T08:58:58.497Z"
         },
         {
             "title": "Epic DLC02 Heist pack",
@@ -5506,15 +5850,21 @@
             "tags": [
                 "PlatformOnly",
                 "Epic",
-                "ReportsTelemetry"
+                "MarketDealVendor",
+                "ReportsTelemetry",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "EpicStoreProductId": "payday-3--boys-in-blue-heist",
+                "FirstPartyProductId": "8e8e26ae773244ed9a36e4e26a32e75e"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-05-21T14:30:57.848Z",
-            "updatedAt": "2024-09-27T11:47:45.937Z"
+            "updatedAt": "2025-12-02T08:58:58.528Z"
         },
         {
             "title": "Epic DLC02 Tailor pack",
@@ -5557,30 +5907,36 @@
                 "159a886183c645af8949bc2c104dff62"
             ],
             "itemQty": {
+                "fbd4eea107884b269575f69a31db6450": 1,
+                "85c78d0381034d109856306b054e6c19": 1,
+                "22b9b8e48e104a359ae057831676d0a5": 1,
+                "5e68d716aec54051a42104e2008b7869": 1,
+                "b063a32652df40209ee1c242ae405892": 1,
                 "46bdf29668c0458fbf83e3828e15cfa2": 1,
                 "27ce30cc9bdc4cd584c1a8eff6ba3853": 1,
-                "8ebce252b5674345bf1b415e3e4d7f31": 1,
                 "f32a0886cf4d4a7a9c4aca6fe7fe314d": 1,
-                "20148290fc3b4554b7f5a31d7f1d8df2": 1,
-                "85c78d0381034d109856306b054e6c19": 1,
-                "b063a32652df40209ee1c242ae405892": 1,
-                "159a886183c645af8949bc2c104dff62": 1,
-                "22b9b8e48e104a359ae057831676d0a5": 1,
+                "8ebce252b5674345bf1b415e3e4d7f31": 1,
                 "bf17cb3854d84612a18b62b1d2907891": 1,
-                "fbd4eea107884b269575f69a31db6450": 1,
-                "5e68d716aec54051a42104e2008b7869": 1
+                "159a886183c645af8949bc2c104dff62": 1,
+                "20148290fc3b4554b7f5a31d7f1d8df2": 1
             },
             "tags": [
                 "PlatformOnly",
-                "Epic"
+                "Epic",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "EpicStoreProductId": "payday-3--boys-in-blue-tailor-pack",
+                "FirstPartyProductId": "a26126e02e4045ed8830a57dc628ad08"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-03-06T14:10:44.962Z",
-            "updatedAt": "2024-09-27T11:47:39.208Z"
+            "updatedAt": "2025-12-02T08:58:58.432Z"
         },
         {
             "title": "Epic DLC02 Weapon pack ",
@@ -5618,25 +5974,31 @@
                 "84d0c77410184162a1b300dcca87c600"
             ],
             "itemQty": {
-                "748267df52a546a3820f71673d0ce352": 1,
-                "367a7c069b5f43568a0e0a1ad85c717c": 1,
-                "f9a13e6c2a0f4e6d9251347bc63634c7": 2,
                 "6efcf722028a4e9aa7870b3ab07d2cb4": 1,
                 "91002cf51b594ca2b326ad27d4b19592": 1,
+                "f9a13e6c2a0f4e6d9251347bc63634c7": 2,
+                "748267df52a546a3820f71673d0ce352": 1,
                 "bacb3a65faaf48e0b48be79cb1084883": 1,
+                "367a7c069b5f43568a0e0a1ad85c717c": 1,
                 "84d0c77410184162a1b300dcca87c600": 1
             },
             "tags": [
                 "PlatformOnly",
-                "Epic"
+                "Epic",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "EpicStoreProductId": "payday-3--boys-in-blue-weapon-pack",
+                "FirstPartyProductId": "de3de6dbe1df4aa8aac8c88a4d54bc7f"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-02-14T15:45:30.060Z",
-            "updatedAt": "2024-09-27T11:47:40.888Z"
+            "updatedAt": "2025-12-02T08:58:58.517Z"
         },
         {
             "title": "Epic DLC03 Heist pack",
@@ -5673,15 +6035,21 @@
             "tags": [
                 "PlatformOnly",
                 "Epic",
-                "ReportsTelemetry"
+                "MarketDealVendor",
+                "ReportsTelemetry",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "EpicStoreProductId": "payday-3--houston-breakout-heist",
+                "FirstPartyProductId": "57a770e515854e45987a9535dfff55da"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-09T08:45:14.217Z",
-            "updatedAt": "2024-09-27T11:47:46.474Z"
+            "updatedAt": "2025-12-02T08:58:58.403Z"
         },
         {
             "title": "Epic DLC03 Tailor pack",
@@ -5740,15 +6108,21 @@
             "tags": [
                 "PlatformOnly",
                 "Epic",
-                "ReportsTelemetry"
+                "MarketDealVendor",
+                "ReportsTelemetry",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": 1,
+            "ext": {
+                "EpicStoreProductId": "payday-3--houston-breakout-tailor-pack",
+                "FirstPartyProductId": "b186bb4ca3c5427fbd0be354d7f3eeef"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-09T09:57:55.693Z",
-            "updatedAt": "2024-09-27T11:47:41.633Z"
+            "updatedAt": "2025-12-02T08:58:58.453Z"
         },
         {
             "title": "Epic DLC03 Weapon Charm 01",
@@ -5890,15 +6264,21 @@
             "tags": [
                 "PlatformOnly",
                 "Epic",
-                "ReportsTelemetry"
+                "MarketDealVendor",
+                "ReportsTelemetry",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "EpicStoreProductId": "payday-3--houston-breakout-weapon-pack",
+                "FirstPartyProductId": "da4daa7b0a4f4cfbb4dd00ec647d66c4"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-01T12:19:12.679Z",
-            "updatedAt": "2024-09-27T11:47:41.343Z"
+            "updatedAt": "2025-12-02T08:58:58.312Z"
         },
         {
             "title": "Epic DLC04  Weapon Charm 01",
@@ -6026,16 +6406,22 @@
                 "59999e9debf94f859894bed189f91325": 1
             },
             "tags": [
+                "Secondrow",
                 "PlatformOnly",
-                "Epic"
+                "Epic",
+                "MarketDealVendor"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "EpicStoreProductId": "payday-3--fear-and-greed-heist",
+                "FirstPartyProductId": "58d9d0f6b3744ae09c16f57128225cd2"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-08-16T13:12:24.940Z",
-            "updatedAt": "2024-09-27T11:47:43.414Z"
+            "updatedAt": "2025-12-02T08:58:58.257Z"
         },
         {
             "title": "Epic DLC04 Tailor pack",
@@ -6078,31 +6464,37 @@
                 "4edf8f7ef95d41588b1f225e2b4dd616"
             ],
             "itemQty": {
-                "2c70891f6f1745f1bf8e1734c1de0985": 1,
-                "abe1cb33bf6241d59ba8aad5c761ec4f": 1,
-                "d668841338f248a88399b0dddbcfd4d9": 1,
                 "b4030417319c414cb905e2b0ff4d8a13": 1,
+                "d94c726aedaf4e2686ae098bd4815620": 1,
+                "fc1c4c8b9ab3425f88e696148feb670b": 1,
+                "d668841338f248a88399b0dddbcfd4d9": 1,
+                "4edf8f7ef95d41588b1f225e2b4dd616": 1,
+                "9816a2b847094b93bc92c7924380e468": 1,
+                "abe1cb33bf6241d59ba8aad5c761ec4f": 1,
+                "f76fbb432c0d4b798332cd364f991a47": 1,
                 "a1abdabc362942b39cd641ea091e3f10": 1,
                 "ae2acfd57bae45a682df2f047cecbc0f": 1,
-                "4edf8f7ef95d41588b1f225e2b4dd616": 1,
-                "f76fbb432c0d4b798332cd364f991a47": 1,
-                "fc1c4c8b9ab3425f88e696148feb670b": 1,
-                "d94c726aedaf4e2686ae098bd4815620": 1,
-                "9816a2b847094b93bc92c7924380e468": 1,
+                "2c70891f6f1745f1bf8e1734c1de0985": 1,
                 "d944e5df18c1473a9b9bb9eb3cc5e743": 1
             },
             "tags": [
                 "PlatformOnly",
-                "Epic"
+                "Epic",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
             "displayOrder": 1,
+            "ext": {
+                "EpicStoreProductId": "payday-3--fear-and-greed-tailor-pack",
+                "FirstPartyProductId": "2b6ad8f861df491ab0d715fedb146a85"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-08-07T19:32:46.086Z",
-            "updatedAt": "2024-09-27T11:47:44.603Z"
+            "updatedAt": "2025-12-02T08:58:58.359Z"
         },
         {
             "title": "Epic DLC04 Weapon pack",
@@ -6133,32 +6525,38 @@
             "itemIds": [
                 "2570174c558841049d041033db73b51d",
                 "000b788915ee4b1686f7c43668cca285",
-                "02cf529c855d44b7ac1296eb2f0173ff",
                 "f9a13e6c2a0f4e6d9251347bc63634c7",
                 "84d0c77410184162a1b300dcca87c600",
                 "ea4ad628cf3c41bf8d46bf52bd550889",
-                "9e8ed67db05d4191bd7df8efe992e6da"
+                "9e8ed67db05d4191bd7df8efe992e6da",
+                "02cf529c855d44b7ac1296eb2f0173ff"
             ],
             "itemQty": {
-                "ea4ad628cf3c41bf8d46bf52bd550889": 1,
-                "2570174c558841049d041033db73b51d": 1,
-                "f9a13e6c2a0f4e6d9251347bc63634c7": 1,
-                "02cf529c855d44b7ac1296eb2f0173ff": 1,
-                "000b788915ee4b1686f7c43668cca285": 1,
                 "9e8ed67db05d4191bd7df8efe992e6da": 1,
+                "2570174c558841049d041033db73b51d": 1,
+                "02cf529c855d44b7ac1296eb2f0173ff": 1,
+                "f9a13e6c2a0f4e6d9251347bc63634c7": 1,
+                "ea4ad628cf3c41bf8d46bf52bd550889": 1,
+                "000b788915ee4b1686f7c43668cca285": 1,
                 "84d0c77410184162a1b300dcca87c600": 2
             },
             "tags": [
                 "PlatformOnly",
-                "Epic"
+                "Epic",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "EpicStoreProductId": "payday-3--fear-and-greed-weapon-pack",
+                "FirstPartyProductId": "7c7fdeb1ab344638817c127435cfc976"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-25T12:10:02.956Z",
-            "updatedAt": "2024-09-27T11:47:46.103Z"
+            "updatedAt": "2025-12-02T08:58:58.763Z"
         },
         {
             "title": "Epic DLCBust Heist pack",
@@ -6182,8 +6580,8 @@
                     "currencyCode": "CASH",
                     "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2025-04-17T13:02:35.590Z",
-                    "discountPurchaseAt": "2025-04-17T13:02:35.590Z"
+                    "purchaseAt": "2025-01-28T15:36:32.198Z",
+                    "discountPurchaseAt": "2025-01-28T15:36:32.198Z"
                 }
             ],
             "itemIds": [
@@ -6193,16 +6591,122 @@
                 "211b6323d77b4eac81836e8bfd5b3e19": 1
             },
             "tags": [
+                "Secondrow",
                 "PlatformOnly",
-                "Epic"
+                "Epic",
+                "MarketDealVendor"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "EpicStoreProductId": "payday-3--party-powder-heist",
+                "FirstPartyProductId": "61f4ad17596c4a749e92e98970679566"
+            },
             "region": "SE",
             "language": "en-US",
-            "createdAt": "2025-04-17T13:02:38.228Z",
-            "updatedAt": "2025-05-26T08:03:59.612Z"
+            "createdAt": "2025-01-28T15:36:32.182Z",
+            "updatedAt": "2025-12-02T08:58:58.153Z"
+        },
+        {
+            "title": "Epic DLCdema Heist pack",
+            "itemId": "a8bd66ff9c7b45b0b04e5a42243e9950",
+            "baseAppId": "",
+            "sku": "pd3_epic_dlcdema_heist_pack",
+            "namespace": "pd3",
+            "name": "Epic DLCdema Heist pack",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Bundle",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "BUNDLE",
+            "regionData": [
+                {
+                    "price": 50,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 50,
+                    "currencyCode": "USD",
+                    "currencyType": "REAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-10-23T11:49:17.615Z",
+                    "discountPurchaseAt": "2025-10-23T11:49:17.615Z"
+                }
+            ],
+            "itemIds": [
+                "de94e0cdc0784820aea640337220cba7"
+            ],
+            "itemQty": {
+                "de94e0cdc0784820aea640337220cba7": 1
+            },
+            "tags": [
+                "PlatformOnly",
+                "Epic",
+                "Featured",
+                "MarketDealVendor"
+            ],
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "ext": {
+                "EpicStoreProductId": "payday-3--shopping-spree-heist",
+                "FirstPartyProductId": "9e4d3cc21e614cab89087c2cae08c08a"
+            },
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-10-23T11:49:24.769Z",
+            "updatedAt": "2026-01-13T08:51:46.724Z"
+        },
+        {
+            "title": "Epic DLCshiya Heist pack",
+            "itemId": "2e3c720f478a4d2fa47e9d53cbeabd2a",
+            "baseAppId": "",
+            "sku": "pd3_epic_dlcshiya_heist_pack",
+            "namespace": "pd3",
+            "name": "Epic DLCshiya Heist pack",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Bundle",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "BUNDLE",
+            "regionData": [
+                {
+                    "price": 0,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-08-07T13:57:03.190Z",
+                    "discountPurchaseAt": "2025-08-07T13:57:03.190Z"
+                }
+            ],
+            "itemIds": [
+                "3dcb77d01b584d5f8c1a17d263b1879c"
+            ],
+            "itemQty": {
+                "3dcb77d01b584d5f8c1a17d263b1879c": 1
+            },
+            "tags": [
+                "PlatformOnly",
+                "secondrow",
+                "Epic",
+                "MarketDealVendor"
+            ],
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "ext": {
+                "EpicStoreProductId": "payday-3--delivery-charge",
+                "FirstPartyProductId": "1c390ed2ca5947cbbcb730a64cd09544"
+            },
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-08-07T13:57:03.107Z",
+            "updatedAt": "2026-01-13T09:31:15.995Z"
         },
         {
             "title": "Epic Fool Mask Vendor Item",
@@ -15295,45 +15799,6 @@
         },
         {
             "title": "Heist Art Gallery",
-            "itemId": "66e4918f797d4bd0b8e8eb43e8a15687",
-            "baseAppId": "",
-            "sku": "pd3_steam_heist_art_gallery",
-            "namespace": "pd3",
-            "name": "Heist Art Gallery",
-            "entitlementType": "DURABLE",
-            "categoryPath": "/Heist",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-10-31T12:21:09.061Z",
-                    "discountPurchaseAt": "2023-10-31T12:21:09.061Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "Steam"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-10-31T12:21:08.848Z",
-            "updatedAt": "2024-09-27T11:47:39.807Z"
-        },
-        {
-            "title": "Heist Art Gallery",
             "itemId": "489d79f9aab64f449f67748aa97259d0",
             "baseAppId": "",
             "sku": "pd3_heist_art_gallery",
@@ -15612,6 +16077,178 @@
             "language": "en-US",
             "createdAt": "2024-07-09T08:42:38.083Z",
             "updatedAt": "2025-07-04T11:56:51.434Z"
+        },
+        {
+            "title": "Heist DEMA Epic",
+            "itemId": "de94e0cdc0784820aea640337220cba7",
+            "baseAppId": "",
+            "sku": "pd3_epic_heist_dema",
+            "namespace": "pd3",
+            "name": "Heist DEMA Epic",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Heist",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 50,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 50,
+                    "currencyCode": "USD",
+                    "currencyType": "REAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-10-23T11:43:44.387Z",
+                    "discountPurchaseAt": "2025-10-23T11:43:44.387Z"
+                }
+            ],
+            "itemQty": {},
+            "boundItemIds": [
+                "a8bd66ff9c7b45b0b04e5a42243e9950"
+            ],
+            "tags": [
+                "PlatformOnly",
+                "ReportingTelemetry",
+                "Epic"
+            ],
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-10-23T11:43:51.506Z",
+            "updatedAt": "2026-01-13T08:51:46.746Z"
+        },
+        {
+            "title": "Heist DEMA Playstation",
+            "itemId": "264f3c68b92742a692ff6863f61ab8c3",
+            "baseAppId": "",
+            "sku": "pd3_playstation_heist_dema",
+            "namespace": "pd3",
+            "name": "Heist DEMA Playstation",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Heist",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 50,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 50,
+                    "currencyCode": "USD",
+                    "currencyType": "REAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-10-23T11:40:15.260Z",
+                    "discountPurchaseAt": "2025-10-23T11:40:15.260Z"
+                }
+            ],
+            "itemQty": {},
+            "boundItemIds": [
+                "07b688af7723403993acfcf2e31c433d"
+            ],
+            "tags": [
+                "PlatformOnly",
+                "ReportingTelemetry",
+                "Playstation"
+            ],
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-10-23T11:40:22.376Z",
+            "updatedAt": "2026-01-13T08:51:46.755Z"
+        },
+        {
+            "title": "Heist DEMA Steam",
+            "itemId": "98770d6732e048c4bff936a8ce23cfce",
+            "baseAppId": "",
+            "sku": "pd3_steam_heist_dema",
+            "namespace": "pd3",
+            "name": "Heist DEMA Steam",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Heist",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 50,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 50,
+                    "currencyCode": "USD",
+                    "currencyType": "REAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-10-23T07:03:33.898Z",
+                    "discountPurchaseAt": "2025-10-23T07:03:33.898Z"
+                }
+            ],
+            "itemQty": {},
+            "boundItemIds": [
+                "71fa89c7c834426d814f361a10e10e8f"
+            ],
+            "tags": [
+                "PlatformOnly",
+                "ReportTelemetry",
+                "Steam"
+            ],
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-10-23T07:03:40.795Z",
+            "updatedAt": "2026-01-13T08:51:46.740Z"
+        },
+        {
+            "title": "Heist DEMA Xbox",
+            "itemId": "2110184ae55c4e61bfe79c1111916882",
+            "baseAppId": "",
+            "sku": "pd3_xbox_heist_dema",
+            "namespace": "pd3",
+            "name": "Heist DEMA Xbox",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Heist",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 50,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 50,
+                    "currencyCode": "USD",
+                    "currencyType": "REAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-10-23T11:39:34.390Z",
+                    "discountPurchaseAt": "2025-10-23T11:39:34.390Z"
+                }
+            ],
+            "itemQty": {},
+            "boundItemIds": [
+                "5b6d4112114942d7904750532ca283e9"
+            ],
+            "tags": [
+                "PlatformOnly",
+                "ReportingTelemetry",
+                "Xbox"
+            ],
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-10-23T11:39:41.520Z",
+            "updatedAt": "2026-01-13T08:51:46.751Z"
         },
         {
             "title": "Heist Data Center Epic",
@@ -16353,6 +16990,176 @@
             "language": "en-US",
             "createdAt": "2023-11-02T12:25:05.743Z",
             "updatedAt": "2024-09-27T11:47:39.316Z"
+        },
+        {
+            "title": "Heist SHIYA Epic",
+            "itemId": "3dcb77d01b584d5f8c1a17d263b1879c",
+            "baseAppId": "",
+            "sku": "pd3_epic_heist_shiya",
+            "namespace": "pd3",
+            "name": "Heist SHIYA Epic",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Heist",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 50,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 50,
+                    "currencyCode": "USD",
+                    "currencyType": "REAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-07-04T09:20:08.454Z",
+                    "discountPurchaseAt": "2025-07-04T09:20:08.454Z"
+                }
+            ],
+            "itemQty": {},
+            "boundItemIds": [
+                "2e3c720f478a4d2fa47e9d53cbeabd2a"
+            ],
+            "tags": [
+                "PlatformOnly",
+                "ReportingTelemetry",
+                "Epic"
+            ],
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-07-04T09:20:08.763Z",
+            "updatedAt": "2025-09-10T07:52:00.924Z"
+        },
+        {
+            "title": "Heist SHIYA Playstation",
+            "itemId": "02d57e1ae593486aafe83dc7c9d2ff11",
+            "baseAppId": "",
+            "sku": "pd3_playstation_heist_shiya",
+            "namespace": "pd3",
+            "name": "Heist SHIYA Playstation",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Heist",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 50,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 50,
+                    "currencyCode": "USD",
+                    "currencyType": "REAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-07-04T09:10:33.899Z"
+                }
+            ],
+            "itemQty": {},
+            "boundItemIds": [
+                "913f072e362f47d68e8626dc2a0d7624"
+            ],
+            "tags": [
+                "PlatformOnly",
+                "Playstation",
+                "ReportsTelemetry"
+            ],
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-07-04T09:10:34.200Z",
+            "updatedAt": "2025-09-10T07:52:00.895Z"
+        },
+        {
+            "title": "Heist SHIYA Steam",
+            "itemId": "c1552591002e41868ae0398877c884e6",
+            "baseAppId": "",
+            "sku": "pd3_steam_heist_shiya",
+            "namespace": "pd3",
+            "name": "Heist SHIYA Steam",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Heist",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 50,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 50,
+                    "currencyCode": "USD",
+                    "currencyType": "REAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-07-04T09:18:10.736Z"
+                }
+            ],
+            "itemQty": {},
+            "boundItemIds": [
+                "3b7219f269154c3a83e7711554952548"
+            ],
+            "tags": [
+                "PlatformOnly",
+                "ReportTelemetry",
+                "Steam"
+            ],
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-07-04T09:18:11.033Z",
+            "updatedAt": "2025-09-10T13:57:44.756Z"
+        },
+        {
+            "title": "Heist SHIYA Xbox",
+            "itemId": "f16be2022e9548ba8369f9a6ebdb8f13",
+            "baseAppId": "",
+            "sku": "pd3_xbox_heist_shiya",
+            "namespace": "pd3",
+            "name": "Heist SHIYA Xbox",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Heist",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 50,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 50,
+                    "currencyCode": "USD",
+                    "currencyType": "REAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-07-04T09:16:18.271Z",
+                    "discountPurchaseAt": "2025-07-04T09:16:18.271Z"
+                }
+            ],
+            "itemQty": {},
+            "boundItemIds": [
+                "36d75f08df1c4806864593eb28448d06"
+            ],
+            "tags": [
+                "PlatformOnly",
+                "ReportTelemetry",
+                "Xbox"
+            ],
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-07-04T09:16:18.568Z",
+            "updatedAt": "2025-09-10T07:52:00.944Z"
         },
         {
             "title": "Heist Smash and Grab  Fort",
@@ -31735,6 +32542,47 @@
             "updatedAt": "2024-09-27T11:47:30.351Z"
         },
         {
+            "title": "Mask STPatch 05 Roboquest 01",
+            "itemId": "ee613365c9744e22871c69e1b7dfc35e",
+            "baseAppId": "",
+            "sku": "pd3_cosmetic_mask_stpatch_05_roboquest_01",
+            "namespace": "pd3",
+            "name": "Mask STPatch 05 Roboquest 01",
+            "entitlementType": "CONSUMABLE",
+            "useCount": 1,
+            "stackable": false,
+            "categoryPath": "/MaskMould",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 10,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 10,
+                    "currencyCode": "GOLD",
+                    "currencyType": "VIRTUAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2024-10-17T14:20:54.989Z"
+                }
+            ],
+            "itemQty": {},
+            "tags": [
+                "CharacterVendor",
+                "Premium",
+                "EventMasksCategory"
+            ],
+            "features": [],
+            "maxCountPerUser": -1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2024-10-17T14:20:53.828Z",
+            "updatedAt": "2025-09-12T11:34:37.811Z"
+        },
+        {
             "title": "Mask STPatch 05 Teddy Moo 01",
             "itemId": "758872a4097542b0a6dc99b4206492a5",
             "baseAppId": "",
@@ -31812,13 +32660,15 @@
             "tags": [
                 "Premium"
             ],
-            "features": [],
+            "features": [
+                "iap-sync-twitch"
+            ],
             "maxCountPerUser": 1,
             "maxCount": -1,
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-10-18T15:29:10.032Z",
-            "updatedAt": "2025-05-26T15:44:56.101Z"
+            "updatedAt": "2025-09-10T09:07:59.871Z"
         },
         {
             "title": "Medic Bag",
@@ -32874,268 +33724,6 @@
             "updatedAt": "2024-10-30T08:47:48.505Z"
         },
         {
-            "title": "PD2 Epic Promo Charm 1",
-            "itemId": "27475b7fe3684a2284dde6785dd448a3",
-            "baseAppId": "",
-            "sku": "pd3_epic_cosmetic_weapon_charm_pd2promo1",
-            "namespace": "pd3",
-            "name": "PD2 Epic Promo Charm 1",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "images": [
-                {
-                    "as": "Very Hard Skull",
-                    "caption": "Icon_Charm_Skull_VeryHard (1).png",
-                    "height": 400,
-                    "width": 400,
-                    "imageUrl": "https://cdn.nebula.starbreeze.com/files/pd3/assets/7b0806e22bb04ab8b1eb20676fe6665c.png",
-                    "smallImageUrl": "https://cdn.nebula.starbreeze.com/files/pd3/assets/2d68c537c0bb4201a153d7c96497917f.png"
-                }
-            ],
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-05T18:43:41.367Z",
-                    "discountPurchaseAt": "2023-09-05T18:43:41.367Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "Epic",
-                "RarityRare"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-05T18:43:39.692Z",
-            "updatedAt": "2024-09-27T11:47:40.010Z"
-        },
-        {
-            "title": "PD2 Epic Promo Charm 2",
-            "itemId": "588ed18073384fa08ec67a67393274b2",
-            "baseAppId": "",
-            "sku": "pd3_epic_cosmetic_weapon_charm_pd2promo2",
-            "namespace": "pd3",
-            "name": "PD2 Epic Promo Charm 2",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:25:08.170Z",
-                    "discountPurchaseAt": "2023-09-06T05:25:08.170Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "Epic",
-                "RarityRare"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:25:04.603Z",
-            "updatedAt": "2024-09-27T11:47:40.154Z"
-        },
-        {
-            "title": "PD2 Epic Promo Charm 3",
-            "itemId": "add07f37d0a541d491d28bd29e5e7090",
-            "baseAppId": "",
-            "sku": "pd3_epic_cosmetic_weapon_charm_pd2promo3",
-            "namespace": "pd3",
-            "name": "PD2 Epic Promo Charm 3",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:29:48.929Z",
-                    "discountPurchaseAt": "2023-09-06T05:29:48.929Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "Epic",
-                "RarityRare"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:29:45.332Z",
-            "updatedAt": "2024-09-27T11:47:40.117Z"
-        },
-        {
-            "title": "PD2 Epic Promo Charm 4",
-            "itemId": "0255706e51534e7e815fa42de81bdb06",
-            "baseAppId": "",
-            "sku": "pd3_epic_cosmetic_weapon_charm_pd2promo4",
-            "namespace": "pd3",
-            "name": "PD2 Epic Promo Charm 4",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:36:48.445Z",
-                    "discountPurchaseAt": "2023-09-06T05:36:48.445Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "Epic",
-                "RarityRare"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:36:44.844Z",
-            "updatedAt": "2024-09-27T11:47:40.190Z"
-        },
-        {
-            "title": "PD2 Epic Promo Charm 5",
-            "itemId": "4cfaad3c4c8549fcaa6044e58c28622e",
-            "baseAppId": "",
-            "sku": "pd3_epic_cosmetic_weapon_charm_pd2promo5",
-            "namespace": "pd3",
-            "name": "PD2 Epic Promo Charm 5",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:40:43.268Z",
-                    "discountPurchaseAt": "2023-09-06T05:40:43.268Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "Epic",
-                "RarityEpic"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:40:39.621Z",
-            "updatedAt": "2024-09-27T11:47:39.920Z"
-        },
-        {
-            "title": "PD2 Epic Promo Charm 6",
-            "itemId": "aecd11f54e1c41c8847e471ad20f61f4",
-            "baseAppId": "",
-            "sku": "pd3_epic_cosmetic_weapon_charm_pd2promo6",
-            "namespace": "pd3",
-            "name": "PD2 Epic Promo Charm 6",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:44:53.495Z",
-                    "discountPurchaseAt": "2023-09-06T05:44:53.495Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "Epic",
-                "RarityEpic"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:44:49.819Z",
-            "updatedAt": "2024-09-27T11:47:39.908Z"
-        },
-        {
             "title": "PD2 Epic Promo Gloves",
             "itemId": "f1739c37588849b28d98a7e57f643fa3",
             "baseAppId": "",
@@ -33257,268 +33845,6 @@
             "language": "en-US",
             "createdAt": "2023-09-06T06:33:42.858Z",
             "updatedAt": "2024-09-27T11:47:36.129Z"
-        },
-        {
-            "title": "PD2 PlayStation Promo Charm 1",
-            "itemId": "b8c93f7de0c94d33a88d2c5184dab00c",
-            "baseAppId": "",
-            "sku": "pd3_playstation_cosmetic_weapon_charm_pd2promo1",
-            "namespace": "pd3",
-            "name": "PD2 PlayStation Promo Charm 1",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "images": [
-                {
-                    "as": "Very Hard Skull",
-                    "caption": "Icon_Charm_Skull_VeryHard.png",
-                    "height": 400,
-                    "width": 400,
-                    "imageUrl": "https://cdn.nebula.starbreeze.com/files/pd3/assets/465e1e72338f4f8781023b9b591575cc.png",
-                    "smallImageUrl": "https://cdn.nebula.starbreeze.com/files/pd3/assets/29b8587f49464e52b6ee45e0d54cf034.png"
-                }
-            ],
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-05T18:42:38.602Z",
-                    "discountPurchaseAt": "2023-09-05T18:42:38.602Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "PlayStation",
-                "RarityRare"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-05T18:42:36.927Z",
-            "updatedAt": "2024-09-27T11:47:39.998Z"
-        },
-        {
-            "title": "PD2 PlayStation Promo Charm 2",
-            "itemId": "84037598ee714419a7664eb5211e5d26",
-            "baseAppId": "",
-            "sku": "pd3_playstation_cosmetic_weapon_charm_pd2promo2",
-            "namespace": "pd3",
-            "name": "PD2 PlayStation Promo Charm 2",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:24:12.826Z",
-                    "discountPurchaseAt": "2023-09-06T05:24:12.826Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "PlayStation",
-                "RarityRare"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:24:09.282Z",
-            "updatedAt": "2024-09-27T11:47:40.146Z"
-        },
-        {
-            "title": "PD2 PlayStation Promo Charm 3",
-            "itemId": "98b49682be6f432cbea26d2d159e348a",
-            "baseAppId": "",
-            "sku": "pd3_playstation_cosmetic_weapon_charm_pd2promo3",
-            "namespace": "pd3",
-            "name": "PD2 PlayStation Promo Charm 3",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:28:53.940Z",
-                    "discountPurchaseAt": "2023-09-06T05:28:53.940Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "PlayStation",
-                "RarityRare"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:28:50.385Z",
-            "updatedAt": "2024-09-27T11:47:40.106Z"
-        },
-        {
-            "title": "PD2 PlayStation Promo Charm 4",
-            "itemId": "a5fe3dcca97245419b349f50bb189f6c",
-            "baseAppId": "",
-            "sku": "pd3_playstation_cosmetic_weapon_charm_pd2promo4",
-            "namespace": "pd3",
-            "name": "PD2 PlayStation Promo Charm 4",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:35:36.336Z",
-                    "discountPurchaseAt": "2023-09-06T05:35:36.336Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "PlayStation",
-                "RarityRare"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:35:32.720Z",
-            "updatedAt": "2024-09-27T11:47:40.181Z"
-        },
-        {
-            "title": "PD2 PlayStation Promo Charm 5",
-            "itemId": "6b8203a3f2144fc4aa04776db98a8818",
-            "baseAppId": "",
-            "sku": "pd3_playstation_cosmetic_weapon_charm_pd2promo5",
-            "namespace": "pd3",
-            "name": "PD2 PlayStation Promo Charm 5",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:39:42.504Z",
-                    "discountPurchaseAt": "2023-09-06T05:39:42.504Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "PlayStation",
-                "RarityEpic"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:39:38.873Z",
-            "updatedAt": "2024-09-27T11:47:39.930Z"
-        },
-        {
-            "title": "PD2 PlayStation Promo Charm 6",
-            "itemId": "d815e8fe7d2d4901bcd57d6e98f85219",
-            "baseAppId": "",
-            "sku": "pd3_playstation_cosmetic_weapon_charm_pd2promo6",
-            "namespace": "pd3",
-            "name": "PD2 PlayStation Promo Charm 6",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:44:00.763Z",
-                    "discountPurchaseAt": "2023-09-06T05:44:00.763Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "PlayStation",
-                "RarityEpic"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:43:57.111Z",
-            "updatedAt": "2024-09-27T11:47:40.082Z"
         },
         {
             "title": "PD2 PlayStation Promo Gloves",
@@ -34104,258 +34430,6 @@
             "updatedAt": "2024-09-27T11:47:46.283Z"
         },
         {
-            "title": "PD2 Steam Promo Charm 1",
-            "itemId": "c1ad684a4d2840dcb8e116182cfe2b3b",
-            "baseAppId": "",
-            "sku": "pd3_steam_cosmetic_weapon_charm_pd2promo1",
-            "namespace": "pd3",
-            "name": "PD2 Steam Promo Charm 1",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-05T18:39:30.263Z",
-                    "discountPurchaseAt": "2023-09-05T18:39:30.263Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "Steam",
-                "RarityRare"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-05T18:39:28.601Z",
-            "updatedAt": "2024-09-27T11:47:40.164Z"
-        },
-        {
-            "title": "PD2 Steam Promo Charm 2",
-            "itemId": "ba744265a0e7486a819ad9df1978ab2d",
-            "baseAppId": "",
-            "sku": "pd3_steam_cosmetic_weapon_charm_pd2promo2",
-            "namespace": "pd3",
-            "name": "PD2 Steam Promo Charm 2",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:21:35.841Z",
-                    "discountPurchaseAt": "2023-09-06T05:21:35.841Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "Steam",
-                "RarityRare"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:21:32.311Z",
-            "updatedAt": "2024-09-27T11:47:40.127Z"
-        },
-        {
-            "title": "PD2 Steam Promo Charm 3",
-            "itemId": "6718c60287d34d94b0cf371171b10610",
-            "baseAppId": "",
-            "sku": "pd3_steam_cosmetic_weapon_charm_pd2promo3",
-            "namespace": "pd3",
-            "name": "PD2 Steam Promo Charm 3",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:26:36.780Z",
-                    "discountPurchaseAt": "2023-09-06T05:26:36.780Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "Steam",
-                "RarityRare"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:26:33.161Z",
-            "updatedAt": "2024-09-27T11:47:39.895Z"
-        },
-        {
-            "title": "PD2 Steam Promo Charm 4",
-            "itemId": "efbb0361613f480bb945299529648282",
-            "baseAppId": "",
-            "sku": "pd3_steam_cosmetic_weapon_charm_pd2promo4",
-            "namespace": "pd3",
-            "name": "PD2 Steam Promo Charm 4",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:32:59.917Z",
-                    "discountPurchaseAt": "2023-09-06T05:32:59.917Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "Steam",
-                "RarityRare"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:32:56.323Z",
-            "updatedAt": "2024-09-27T11:47:40.095Z"
-        },
-        {
-            "title": "PD2 Steam Promo Charm 5",
-            "itemId": "fb2a14b9cc0c4aa4a29c41ae7eabe37c",
-            "baseAppId": "",
-            "sku": "pd3_steam_cosmetic_weapon_charm_pd2promo5",
-            "namespace": "pd3",
-            "name": "PD2 Steam Promo Charm 5",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:37:54.097Z",
-                    "discountPurchaseAt": "2023-09-06T05:37:54.097Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "RarityEpic",
-                "Steam"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:37:50.469Z",
-            "updatedAt": "2024-09-27T11:47:40.021Z"
-        },
-        {
-            "title": "PD2 Steam Promo Charm 6",
-            "itemId": "92b5f6b6ec5743c7ab7ed05234e0959a",
-            "baseAppId": "",
-            "sku": "pd3_steam_cosmetic_weapon_charm_pd2promo6",
-            "namespace": "pd3",
-            "name": "PD2 Steam Promo Charm 6",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:41:58.473Z",
-                    "discountPurchaseAt": "2023-09-06T05:41:58.473Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "RarityEpic",
-                "Steam"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:41:54.832Z",
-            "updatedAt": "2024-09-27T11:47:39.958Z"
-        },
-        {
             "title": "PD2 Steam Promo Gloves",
             "itemId": "3dc0bccf84d2470a9cbd6efebafb0914",
             "baseAppId": "",
@@ -34477,268 +34551,6 @@
             "language": "en-US",
             "createdAt": "2023-09-06T06:30:59.724Z",
             "updatedAt": "2024-09-27T11:47:35.661Z"
-        },
-        {
-            "title": "PD2 XBox Promo Charm 1 ",
-            "itemId": "c6b139b215e94d698b8e7b7b1c6e351d",
-            "baseAppId": "",
-            "sku": "pd3_xbox_cosmetic_weapon_charm_pd2promo1",
-            "namespace": "pd3",
-            "name": "PD2 XBox Promo Charm 1 ",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "images": [
-                {
-                    "as": "Very Hard Skull",
-                    "caption": "Icon_Charm_Skull_VeryHard (1).png",
-                    "height": 400,
-                    "width": 400,
-                    "imageUrl": "https://cdn.nebula.starbreeze.com/files/pd3/assets/55eeb2105b5546e299cf9d9e18473d8d.png",
-                    "smallImageUrl": "https://cdn.nebula.starbreeze.com/files/pd3/assets/84f882648cf24be69cdade98fe1461c0.png"
-                }
-            ],
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-05T18:41:29.205Z",
-                    "discountPurchaseAt": "2023-09-05T18:41:29.205Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "RarityRare",
-                "XBox"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-05T18:41:27.520Z",
-            "updatedAt": "2024-09-27T11:47:39.987Z"
-        },
-        {
-            "title": "PD2 XBox Promo Charm 2",
-            "itemId": "3e4615d6be814e9e9ea9f6678b98b22e",
-            "baseAppId": "",
-            "sku": "pd3_xbox_cosmetic_weapon_charm_pd2promo2",
-            "namespace": "pd3",
-            "name": "PD2 XBox Promo Charm 2",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:22:50.612Z",
-                    "discountPurchaseAt": "2023-09-06T05:22:50.612Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "RarityRare",
-                "XBox"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:22:47.165Z",
-            "updatedAt": "2024-09-27T11:47:40.137Z"
-        },
-        {
-            "title": "PD2 XBox Promo Charm 3",
-            "itemId": "7967b51aea1f43558b93b560f56aa723",
-            "baseAppId": "",
-            "sku": "pd3_xbox_cosmetic_weapon_charm_pd2promo3",
-            "namespace": "pd3",
-            "name": "PD2 XBox Promo Charm 3",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:27:24.631Z",
-                    "discountPurchaseAt": "2023-09-06T05:27:24.631Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "RarityRare",
-                "XBox"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:27:21.027Z",
-            "updatedAt": "2024-09-27T11:47:39.939Z"
-        },
-        {
-            "title": "PD2 XBox Promo Charm 4",
-            "itemId": "232dacfbc3644819823110bc58d0c0ba",
-            "baseAppId": "",
-            "sku": "pd3_xbox_cosmetic_weapon_charm_pd2promo4",
-            "namespace": "pd3",
-            "name": "PD2 XBox Promo Charm 4",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:34:10.999Z",
-                    "discountPurchaseAt": "2023-09-06T05:34:10.999Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "RarityRare",
-                "XBox"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:34:07.349Z",
-            "updatedAt": "2024-09-27T11:47:40.172Z"
-        },
-        {
-            "title": "PD2 XBox Promo Charm 5",
-            "itemId": "88fd6ef64ba547fbb217c69383fa7a25",
-            "baseAppId": "",
-            "sku": "pd3_xbox_cosmetic_weapon_charm_pd2promo5",
-            "namespace": "pd3",
-            "name": "PD2 XBox Promo Charm 5",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:38:44.582Z",
-                    "discountPurchaseAt": "2023-09-06T05:38:44.582Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "RarityEpic",
-                "XBox"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:38:41.075Z",
-            "updatedAt": "2024-09-27T11:47:40.051Z"
-        },
-        {
-            "title": "PD2 XBox Promo Charm 6",
-            "itemId": "eb3fb58af81e4d6ca839865ae607d09d",
-            "baseAppId": "",
-            "sku": "pd3_xbox_cosmetic_weapon_charm_pd2promo6",
-            "namespace": "pd3",
-            "name": "PD2 XBox Promo Charm 6",
-            "entitlementType": "CONSUMABLE",
-            "useCount": 1,
-            "stackable": true,
-            "categoryPath": "/WeaponCharm",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": false,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-09-06T05:43:02.428Z",
-                    "discountPurchaseAt": "2023-09-06T05:43:02.428Z"
-                }
-            ],
-            "itemQty": {},
-            "tags": [
-                "PlatformOnly",
-                "RarityEpic",
-                "XBox"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-09-06T05:42:58.788Z",
-            "updatedAt": "2024-09-27T11:47:40.065Z"
         },
         {
             "title": "PD2 XBox Promo Gloves",
@@ -35461,15 +35273,23 @@
             },
             "tags": [
                 "PlatformOnly",
-                "PlayStation"
+                "PlayStation",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId-AS": "PAYDAY3DLCIASI00",
+                "FirstPartyProductId-EU": "PAYDAY3DLCISIE00",
+                "FirstPartyProductId-JP": "PAYDAY3DLCIJAP00",
+                "FirstPartyProductId-US": "PAYDAY3DLCI00000"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-10T13:46:19.014Z",
-            "updatedAt": "2024-09-27T11:47:25.584Z"
+            "updatedAt": "2025-12-02T08:58:58.339Z"
         },
         {
             "title": "PlayStation DLC01 Tailor pack",
@@ -35527,15 +35347,23 @@
             },
             "tags": [
                 "PlatformOnly",
-                "PlayStation"
+                "PlayStation",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId-AS": "PAYDAY3DLCIIIASI",
+                "FirstPartyProductId-EU": "PAYDAY3DLCIIISIE",
+                "FirstPartyProductId-JP": "PAYDAY3DLCIIIJAP",
+                "FirstPartyProductId-US": "PAYDAY3DLCIII000"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-15T15:00:05.526Z",
-            "updatedAt": "2024-09-27T11:47:25.363Z"
+            "updatedAt": "2025-12-02T08:58:58.560Z"
         },
         {
             "title": "PlayStation DLC01 Weapon pack ",
@@ -35581,15 +35409,23 @@
             },
             "tags": [
                 "PlatformOnly",
-                "PlayStation"
+                "PlayStation",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId-AS": "PAYDAY3DLCIIASI0",
+                "FirstPartyProductId-EU": "PAYDAY3DLCIISIE0",
+                "FirstPartyProductId-JP": "PAYDAY3DLCIIJAP0",
+                "FirstPartyProductId-US": "PAYDAY3DLCII0000"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-10T13:20:38.515Z",
-            "updatedAt": "2024-09-27T11:47:24.608Z"
+            "updatedAt": "2025-12-02T08:58:58.623Z"
         },
         {
             "title": "PlayStation DLC02 Heist pack",
@@ -35625,15 +35461,23 @@
             },
             "tags": [
                 "PlatformOnly",
-                "PlayStation"
+                "PlayStation",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId-AS": "PD3HEISTCHAPT2AS",
+                "FirstPartyProductId-EU": "PD3HEISTCHAPT2EU",
+                "FirstPartyProductId-JP": "PD3HEISTCHAPT2JP",
+                "FirstPartyProductId-US": "PD3HEISTCHAPT2US"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-05-21T13:19:21.193Z",
-            "updatedAt": "2024-09-27T11:47:37.975Z"
+            "updatedAt": "2025-12-02T08:58:58.700Z"
         },
         {
             "title": "PlayStation DLC02 Tailor pack",
@@ -35676,30 +35520,38 @@
                 "b515668da7aa4eb4998ec237dea4eb86"
             ],
             "itemQty": {
-                "e53a2a2646914c5395c7309ce775922c": 1,
-                "c8dcad3ce1244f03a9434d32de68b541": 1,
-                "62a5a9e9e1164b2699e9de779a58a574": 1,
-                "b85fbcaf75ac402b804c36051dff04f2": 1,
                 "fd66c2594d0a402ebec61c17de8e7662": 1,
-                "e497067b6d244444a9989534f86eb4d5": 1,
-                "e58d0b5cd80a4f8fb68b7d7010c5acef": 1,
                 "1b3e212b6b714785a906d719a93b19c4": 1,
-                "8ac2b1535038464682cbd18bc4babc77": 1,
-                "fcf4cb9f556b4dfdae67f952e5741820": 1,
+                "e58d0b5cd80a4f8fb68b7d7010c5acef": 1,
+                "62a5a9e9e1164b2699e9de779a58a574": 1,
+                "e497067b6d244444a9989534f86eb4d5": 1,
+                "e53a2a2646914c5395c7309ce775922c": 1,
                 "bb77a697848a48d3a15978152bcf579a": 1,
-                "b515668da7aa4eb4998ec237dea4eb86": 1
+                "b515668da7aa4eb4998ec237dea4eb86": 1,
+                "fcf4cb9f556b4dfdae67f952e5741820": 1,
+                "8ac2b1535038464682cbd18bc4babc77": 1,
+                "c8dcad3ce1244f03a9434d32de68b541": 1,
+                "b85fbcaf75ac402b804c36051dff04f2": 1
             },
             "tags": [
                 "PlatformOnly",
-                "PlayStation"
+                "PlayStation",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId-AS": "PD3TAILORCHAP2AS",
+                "FirstPartyProductId-EU": "PD3TAILORCHAP2EU",
+                "FirstPartyProductId-JP": "PD3TAILORCHAP2JP",
+                "FirstPartyProductId-US": "PD3TAILORCHAP2US"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-03-06T15:00:02.341Z",
-            "updatedAt": "2024-09-27T11:47:38.946Z"
+            "updatedAt": "2025-12-02T08:58:58.591Z"
         },
         {
             "title": "PlayStation DLC02 Weapon pack ",
@@ -35737,25 +35589,33 @@
                 "84d0c77410184162a1b300dcca87c600"
             ],
             "itemQty": {
+                "15ba36ac7d2c4654a5d0a1a2a6556ec4": 1,
                 "d42d892b2de841f1bdab4e37b561250b": 1,
                 "4ee918867efa4e20a23cf7d25cc63ea1": 1,
-                "36e8443f80794c18ba9d8cdf548f2828": 1,
                 "f9a13e6c2a0f4e6d9251347bc63634c7": 2,
-                "15ba36ac7d2c4654a5d0a1a2a6556ec4": 1,
+                "36e8443f80794c18ba9d8cdf548f2828": 1,
                 "060900d12765429bacd4ca86fe633817": 1,
                 "84d0c77410184162a1b300dcca87c600": 1
             },
             "tags": [
                 "PlatformOnly",
-                "PlayStation"
+                "PlayStation",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId-AS": "PD3WEAPONCHAP2AS",
+                "FirstPartyProductId-EU": "PD3WEAPONCHAP2EU",
+                "FirstPartyProductId-JP": "PD3WEAPONCHAP2JP",
+                "FirstPartyProductId-US": "PD3WEAPONCHAP2US"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-02-14T15:47:35.598Z",
-            "updatedAt": "2024-09-27T11:47:40.906Z"
+            "updatedAt": "2025-12-02T08:58:58.643Z"
         },
         {
             "title": "PlayStation DLC03 Heist pack",
@@ -35792,15 +35652,23 @@
             "tags": [
                 "PlatformOnly",
                 "PlayStation",
-                "ReportsTelemetry"
+                "MarketDealVendor",
+                "ReportsTelemetry",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId-AS": "PD3HEISTCHAPT3AS",
+                "FirstPartyProductId-EU": "PD3HEISTCHAPT3EU",
+                "FirstPartyProductId-JP": "PD3HEISTCHAPT3JP",
+                "FirstPartyProductId-US": "PD3HEISTCHAPT3US"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-09T08:49:13.214Z",
-            "updatedAt": "2024-09-27T11:47:46.490Z"
+            "updatedAt": "2025-12-02T08:58:58.413Z"
         },
         {
             "title": "PlayStation DLC03 Weapon pack",
@@ -35849,15 +35717,23 @@
             "tags": [
                 "PlatformOnly",
                 "PlayStation",
-                "ReportsTelemetry"
+                "MarketDealVendor",
+                "ReportsTelemetry",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId-AS": "PD3WEAPONCHAP3AS",
+                "FirstPartyProductId-EU": "PD3WEAPONCHAP3EU",
+                "FirstPartyProductId-JP": "PD3WEAPONCHAP3JP",
+                "FirstPartyProductId-US": "PD3WEAPONCHAP3US"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-01T12:22:02.657Z",
-            "updatedAt": "2024-09-27T11:47:41.549Z"
+            "updatedAt": "2025-12-02T08:58:58.443Z"
         },
         {
             "title": "PlayStation DLC04 Heist pack",
@@ -35892,16 +35768,24 @@
                 "6fe2d33da5d34711bdc490523be1d4fb": 1
             },
             "tags": [
+                "Secondrow",
                 "PlatformOnly",
-                "PlayStation"
+                "PlayStation",
+                "MarketDealVendor"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId-AS": "PD3HEISTCHAPT4AS",
+                "FirstPartyProductId-EU": "PD3HEISTCHAPT4EU",
+                "FirstPartyProductId-JP": "PD3HEISTCHAPT4JP",
+                "FirstPartyProductId-US": "PD3HEISTCHAPT4US"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-08-16T13:13:40.470Z",
-            "updatedAt": "2024-09-27T11:47:43.426Z"
+            "updatedAt": "2025-12-02T08:58:58.235Z"
         },
         {
             "title": "PlayStation DLC04 Weapon pack",
@@ -35932,32 +35816,40 @@
             "itemIds": [
                 "fe164479fce2411c9252e083ab4a6f5b",
                 "e1e9b1e1c6fe4e99b464abbfeee93649",
-                "83c57bac06d54c5e997053892d40b2dc",
                 "f9a13e6c2a0f4e6d9251347bc63634c7",
                 "84d0c77410184162a1b300dcca87c600",
                 "a47b25b06de348f0a3fb1123519177ba",
-                "b2561d7e91764b7890f73ab80401d7a0"
+                "b2561d7e91764b7890f73ab80401d7a0",
+                "83c57bac06d54c5e997053892d40b2dc"
             ],
             "itemQty": {
-                "f9a13e6c2a0f4e6d9251347bc63634c7": 1,
-                "e1e9b1e1c6fe4e99b464abbfeee93649": 1,
-                "fe164479fce2411c9252e083ab4a6f5b": 1,
-                "a47b25b06de348f0a3fb1123519177ba": 1,
                 "b2561d7e91764b7890f73ab80401d7a0": 1,
-                "84d0c77410184162a1b300dcca87c600": 2,
-                "83c57bac06d54c5e997053892d40b2dc": 1
+                "a47b25b06de348f0a3fb1123519177ba": 1,
+                "e1e9b1e1c6fe4e99b464abbfeee93649": 1,
+                "f9a13e6c2a0f4e6d9251347bc63634c7": 1,
+                "fe164479fce2411c9252e083ab4a6f5b": 1,
+                "83c57bac06d54c5e997053892d40b2dc": 1,
+                "84d0c77410184162a1b300dcca87c600": 2
             },
             "tags": [
                 "PlatformOnly",
-                "PlayStation"
+                "PlayStation",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId-AS": "PD3WEAPONCHAP4AS",
+                "FirstPartyProductId-EU": "PD3WEAPONCHAP4EU",
+                "FirstPartyProductId-JP": "PD3WEAPONCHAP4JP",
+                "FirstPartyProductId-US": "PD3WEAPONCHAP4US"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-25T12:13:13.846Z",
-            "updatedAt": "2024-09-27T11:47:46.086Z"
+            "updatedAt": "2025-12-02T08:58:58.733Z"
         },
         {
             "title": "PlayStation JP Silver Edition Bundle",
@@ -38870,16 +38762,24 @@
                 "600a1e84fe8f41e98b95362cc051e425": 1
             },
             "tags": [
+                "Secondrow",
                 "PlatformOnly",
-                "PlayStation"
+                "PlayStation",
+                "MarketDealVendor"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": 1,
+            "ext": {
+                "FirstPartyProductId-AS": "PD3CHARPACKCH5AS",
+                "FirstPartyProductId-EU": "PD3CHARPACKCH5EU",
+                "FirstPartyProductId-JP": "PD3CHARPACKCH5JP",
+                "FirstPartyProductId-US": "PD3CHARPACKCH5US"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-10-30T15:30:06.503Z",
-            "updatedAt": "2025-02-03T09:08:00.518Z"
+            "updatedAt": "2025-12-02T08:58:58.182Z"
         },
         {
             "title": "Playstation Character Fool  01",
@@ -39023,15 +38923,23 @@
             "tags": [
                 "PlatformOnly",
                 "PlayStation",
-                "ReportsTelemetry"
+                "MarketDealVendor",
+                "ReportsTelemetry",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": 1,
+            "ext": {
+                "FirstPartyProductId-AS": "PD3TAILORCHAP3AS",
+                "FirstPartyProductId-EU": "PD3TAILORCHAP3EU",
+                "FirstPartyProductId-JP": "PD3TAILORCHAP3JP",
+                "FirstPartyProductId-US": "PD3TAILORCHAP3US"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-09T09:54:06.076Z",
-            "updatedAt": "2024-09-27T11:47:41.332Z"
+            "updatedAt": "2025-12-02T08:58:58.466Z"
         },
         {
             "title": "Playstation DLC03 Weapon Charm 01",
@@ -39259,30 +39167,38 @@
                 "e104ab42d42845bda2a40edcafa127b3"
             ],
             "itemQty": {
-                "0f7952bba68c480a8b3da23495a21eb7": 1,
-                "222325428d0d406ab75b5305f44ab383": 1,
-                "3df4a85caab94c5c91587a2daf8ab1ac": 1,
-                "985ded9d8e0c48d1b61aed8b5d6a174d": 1,
-                "52308e00d99144399c8b954a536877a3": 1,
-                "e104ab42d42845bda2a40edcafa127b3": 1,
                 "8ae5d14d5531456f96696d411ffbc7f8": 1,
-                "6dc93776796e47d9b6629edd4ceb4547": 1,
-                "72af164970c142edb91347c19199e935": 1,
-                "6bd78c7458904b40870fbe84ed2d8d56": 1,
+                "222325428d0d406ab75b5305f44ab383": 1,
+                "0f7952bba68c480a8b3da23495a21eb7": 1,
                 "103492996b76496ca430227ef0de5353": 1,
-                "3226208e5d36413fab24d2b1ecf44eee": 1
+                "3df4a85caab94c5c91587a2daf8ab1ac": 1,
+                "6dc93776796e47d9b6629edd4ceb4547": 1,
+                "52308e00d99144399c8b954a536877a3": 1,
+                "3226208e5d36413fab24d2b1ecf44eee": 1,
+                "985ded9d8e0c48d1b61aed8b5d6a174d": 1,
+                "e104ab42d42845bda2a40edcafa127b3": 1,
+                "72af164970c142edb91347c19199e935": 1,
+                "6bd78c7458904b40870fbe84ed2d8d56": 1
             },
             "tags": [
                 "PlatformOnly",
-                "Playstation"
+                "MarketDealVendor",
+                "Playstation",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId-AS": "PD3TAILORCHAP4AS",
+                "FirstPartyProductId-EU": "PD3TAILORCHAP4EU",
+                "FirstPartyProductId-JP": "PD3TAILORCHAP4JP",
+                "FirstPartyProductId-US": "PD3TAILORCHAP4US"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-08-07T19:29:32.147Z",
-            "updatedAt": "2024-09-27T11:47:44.593Z"
+            "updatedAt": "2025-12-02T08:58:58.370Z"
         },
         {
             "title": "Playstation DLCBust Heist pack",
@@ -39306,8 +39222,8 @@
                     "currencyCode": "CASH",
                     "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2025-04-17T13:05:31.003Z",
-                    "discountPurchaseAt": "2025-04-17T13:05:31.003Z"
+                    "purchaseAt": "2025-01-28T15:40:40.251Z",
+                    "discountPurchaseAt": "2025-01-28T15:40:40.251Z"
                 }
             ],
             "itemIds": [
@@ -39317,16 +39233,24 @@
                 "41b136b7ca6a40f8a6eb70466f1ce53e": 1
             },
             "tags": [
+                "Secondrow",
                 "PlatformOnly",
+                "MarketDealVendor",
                 "Playstation"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId-AS": "PD3PARTYPOWDERAS",
+                "FirstPartyProductId-EU": "PD3PARTYPOWDEREU",
+                "FirstPartyProductId-JP": "PD3PARTYPOWDERJP",
+                "FirstPartyProductId-US": "PD3PARTYPOWDERUS"
+            },
             "region": "SE",
             "language": "en-US",
-            "createdAt": "2025-04-17T13:05:33.634Z",
-            "updatedAt": "2025-05-26T08:03:59.650Z"
+            "createdAt": "2025-01-28T15:40:40.227Z",
+            "updatedAt": "2025-12-02T08:58:58.163Z"
         },
         {
             "title": "Playstation DLCPP0002 mould Pig 01",
@@ -39366,6 +39290,110 @@
             "language": "en-US",
             "createdAt": "2024-05-15T08:50:19.664Z",
             "updatedAt": "2024-09-27T11:47:39.263Z"
+        },
+        {
+            "title": "Playstation DLCdema Heist pack",
+            "itemId": "07b688af7723403993acfcf2e31c433d",
+            "baseAppId": "",
+            "sku": "pd3_playstation_dlcdema_heist_pack",
+            "namespace": "pd3",
+            "name": "Playstation DLCdema Heist pack",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Bundle",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "BUNDLE",
+            "regionData": [
+                {
+                    "price": 50,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 50,
+                    "currencyCode": "USD",
+                    "currencyType": "REAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-10-23T11:52:19.095Z",
+                    "discountPurchaseAt": "2025-10-23T11:52:19.095Z"
+                }
+            ],
+            "itemIds": [
+                "264f3c68b92742a692ff6863f61ab8c3"
+            ],
+            "itemQty": {
+                "264f3c68b92742a692ff6863f61ab8c3": 1
+            },
+            "tags": [
+                "PlatformOnly",
+                "Featured",
+                "MarketDealVendor",
+                "Playstation"
+            ],
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId-AS": "PAYDAY3ASHEIST70",
+                "FirstPartyProductId-EU": "PAYDAY3EUHEIST70",
+                "FirstPartyProductId-JP": "PAYDAY3JPHEIST70",
+                "FirstPartyProductId-US": "PAYDAY3USHEIST70"
+            },
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-10-23T11:52:26.218Z",
+            "updatedAt": "2026-01-13T08:51:46.717Z"
+        },
+        {
+            "title": "Playstation DLCshiya Heist pack",
+            "itemId": "913f072e362f47d68e8626dc2a0d7624",
+            "baseAppId": "",
+            "sku": "pd3_playstation_dlcshiya_heist_pack",
+            "namespace": "pd3",
+            "name": "Playstation DLCshiya Heist pack",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Bundle",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "BUNDLE",
+            "regionData": [
+                {
+                    "price": 0,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-08-07T14:02:59.392Z",
+                    "discountPurchaseAt": "2025-08-07T14:02:59.392Z"
+                }
+            ],
+            "itemIds": [
+                "02d57e1ae593486aafe83dc7c9d2ff11"
+            ],
+            "itemQty": {
+                "02d57e1ae593486aafe83dc7c9d2ff11": 1
+            },
+            "tags": [
+                "PlatformOnly",
+                "secondrow",
+                "MarketDealVendor",
+                "Playstation"
+            ],
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId-AS": "PD3SHIYA000000AS",
+                "FirstPartyProductId-EU": "PD3SHIYA000000EU",
+                "FirstPartyProductId-JP": "PD3SHIYA000000JP",
+                "FirstPartyProductId-US": "PD3SHIYA000000US"
+            },
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-08-07T14:02:59.312Z",
+            "updatedAt": "2026-01-13T09:31:16.008Z"
         },
         {
             "title": "Playstation Fool Mask Vendor Item",
@@ -50970,16 +50998,21 @@
                 "02a49d09ae654f2e870cf09e20785035": 1
             },
             "tags": [
+                "Secondrow",
                 "PlatformOnly",
-                "steam"
+                "steam",
+                "MarketDealVendor"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": 1,
+            "ext": {
+                "FirstPartyProductId": "3450550"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-10-30T15:26:25.074Z",
-            "updatedAt": "2025-02-03T09:08:00.490Z"
+            "updatedAt": "2025-12-02T08:58:58.223Z"
         },
         {
             "title": "Steam Character Fool  01",
@@ -51100,15 +51133,20 @@
             },
             "tags": [
                 "PlatformOnly",
-                "Steam"
+                "Steam",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "2450690"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-10T13:42:07.781Z",
-            "updatedAt": "2024-09-27T11:47:25.620Z"
+            "updatedAt": "2025-12-02T08:58:58.676Z"
         },
         {
             "title": "Steam DLC01 Tailor pack",
@@ -51151,31 +51189,36 @@
                 "8e93faab93644527a7682a49ddb71196"
             ],
             "itemQty": {
-                "3030cd162d6b47ccad5e44403ccc7b35": 1,
+                "47f3fb495bb944a68230e21759b29ee9": 1,
                 "1cbbb9441d8b4b0c90dc1ccc788f513d": 1,
                 "2d5b8b20c9a94614bc0a14921e570930": 1,
-                "8e93faab93644527a7682a49ddb71196": 1,
-                "46093ee8374149a3a213d8e71c6eb133": 1,
-                "eb9eddc16a6b421f80d2c3d2f36229c5": 1,
-                "7d4b37f472c040c58a388527579f5704": 1,
-                "47f3fb495bb944a68230e21759b29ee9": 1,
-                "36d2557e1a344a62bb52c52201eaa1bc": 1,
                 "a5fbc130a37046059af2b93df1496e29": 1,
+                "7d4b37f472c040c58a388527579f5704": 1,
+                "eb9eddc16a6b421f80d2c3d2f36229c5": 1,
+                "3030cd162d6b47ccad5e44403ccc7b35": 1,
+                "46093ee8374149a3a213d8e71c6eb133": 1,
                 "57596dc1166e4cc7933f0f866d39872d": 1,
-                "09d5e836e5a041d7a73d5e4a6782d12b": 1
+                "8e93faab93644527a7682a49ddb71196": 1,
+                "09d5e836e5a041d7a73d5e4a6782d12b": 1,
+                "36d2557e1a344a62bb52c52201eaa1bc": 1
             },
             "tags": [
                 "PlatformOnly",
                 "Steam",
-                "ReportsTelemetry"
+                "MarketDealVendor",
+                "ReportsTelemetry",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "2450692"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-15T14:52:30.079Z",
-            "updatedAt": "2024-09-27T11:47:44.895Z"
+            "updatedAt": "2025-12-02T08:58:58.601Z"
         },
         {
             "title": "Steam DLC01 Weapon pack ",
@@ -51221,15 +51264,20 @@
             },
             "tags": [
                 "PlatformOnly",
-                "Steam"
+                "Steam",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "2450691"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-10T13:15:13.247Z",
-            "updatedAt": "2024-09-27T11:47:25.261Z"
+            "updatedAt": "2025-12-02T08:58:58.571Z"
         },
         {
             "title": "Steam DLC02 Heist pack",
@@ -51265,15 +51313,20 @@
             },
             "tags": [
                 "PlatformOnly",
-                "Steam"
+                "Steam",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "2450693"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-05-21T13:30:51.231Z",
-            "updatedAt": "2024-09-27T11:47:37.964Z"
+            "updatedAt": "2025-12-02T08:58:58.689Z"
         },
         {
             "title": "Steam DLC02 Tailor pack",
@@ -51316,30 +51369,35 @@
                 "9d807388b7464a9bafc03b05cc08e6dc"
             ],
             "itemQty": {
-                "deba500d01ad4edd87b61cbaeb9871ea": 1,
-                "f0d93dd993de4264bc176e1a3c9e4665": 1,
                 "f03326c29b8c41d8830cb223fc546fc5": 1,
-                "8a5735aeea2c4d0caee2c08590345ad3": 1,
+                "f0d93dd993de4264bc176e1a3c9e4665": 1,
+                "45aa8cb1b45b4cc0904a64f4cb765574": 1,
                 "d06db2883e0d4d26ae078f82e40ec5a4": 1,
-                "9f189fc992204b73a17ed9d9c07861ff": 1,
-                "90704d5499664cbcbee0077aa4cee500": 1,
-                "2ab11476f72e481aa90c707cbb6163ae": 1,
                 "9d807388b7464a9bafc03b05cc08e6dc": 1,
-                "db96930d512645238d191f3e379c423a": 1,
+                "90704d5499664cbcbee0077aa4cee500": 1,
+                "8a5735aeea2c4d0caee2c08590345ad3": 1,
                 "f8a570f007c6499e80056a075b987de9": 1,
-                "45aa8cb1b45b4cc0904a64f4cb765574": 1
+                "2ab11476f72e481aa90c707cbb6163ae": 1,
+                "deba500d01ad4edd87b61cbaeb9871ea": 1,
+                "9f189fc992204b73a17ed9d9c07861ff": 1,
+                "db96930d512645238d191f3e379c423a": 1
             },
             "tags": [
                 "PlatformOnly",
-                "Steam"
+                "Steam",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "2450695"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-03-06T14:02:19.764Z",
-            "updatedAt": "2024-09-27T11:47:38.003Z"
+            "updatedAt": "2025-12-02T08:58:58.475Z"
         },
         {
             "title": "Steam DLC02 Weapon pack ",
@@ -51377,25 +51435,30 @@
                 "84d0c77410184162a1b300dcca87c600"
             ],
             "itemQty": {
+                "95cb14c956d44810b6a494017c2a4655": 1,
                 "f9a13e6c2a0f4e6d9251347bc63634c7": 2,
-                "3f8e036142d547e48857ad076f40de6a": 1,
+                "a6ffc9ea535945ef8dd71ff6ab2a1987": 1,
                 "340c23aa3d27499d801a89d1daf917ce": 1,
                 "d778f54c44534d94880cc6a5715959b3": 1,
-                "a6ffc9ea535945ef8dd71ff6ab2a1987": 1,
-                "95cb14c956d44810b6a494017c2a4655": 1,
+                "3f8e036142d547e48857ad076f40de6a": 1,
                 "84d0c77410184162a1b300dcca87c600": 1
             },
             "tags": [
                 "PlatformOnly",
-                "Steam"
+                "Steam",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "2450694"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-02-14T15:44:19.663Z",
-            "updatedAt": "2024-09-27T11:47:40.925Z"
+            "updatedAt": "2025-12-02T08:58:58.633Z"
         },
         {
             "title": "Epic DLC03 Steam pack",
@@ -51432,15 +51495,20 @@
             "tags": [
                 "PlatformOnly",
                 "Steam",
-                "ReportsTelemetry"
+                "MarketDealVendor",
+                "ReportsTelemetry",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "2450696"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-09T08:46:40.403Z",
-            "updatedAt": "2024-09-27T11:47:46.482Z"
+            "updatedAt": "2025-12-02T08:58:58.381Z"
         },
         {
             "title": "Steam DLC03 Tailor pack",
@@ -51499,15 +51567,20 @@
             "tags": [
                 "PlatformOnly",
                 "Steam",
-                "ReportsTelemetry"
+                "MarketDealVendor",
+                "ReportsTelemetry",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": 1,
+            "ext": {
+                "FirstPartyProductId": "3111880"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-09T09:56:04.987Z",
-            "updatedAt": "2024-09-27T11:47:41.508Z"
+            "updatedAt": "2025-12-02T08:58:58.487Z"
         },
         {
             "title": "Steam DLC03 Weapon Sticker 01",
@@ -51649,15 +51722,20 @@
             "tags": [
                 "PlatformOnly",
                 "Steam",
-                "ReportsTelemetry"
+                "MarketDealVendor",
+                "ReportsTelemetry",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "2450697"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-01T12:14:31.839Z",
-            "updatedAt": "2024-09-27T11:47:41.581Z"
+            "updatedAt": "2025-12-02T08:58:58.303Z"
         },
         {
             "title": "Steam DLC04  Weapon Charm 01",
@@ -51784,16 +51862,21 @@
                 "454e69fa3cf042139b1d3d1525e94484": 1
             },
             "tags": [
+                "Secondrow",
                 "PlatformOnly",
-                "Steam"
+                "Steam",
+                "MarketDealVendor"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "3171980"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-08-16T13:11:13.309Z",
-            "updatedAt": "2024-09-27T11:47:40.041Z"
+            "updatedAt": "2025-12-02T08:58:58.246Z"
         },
         {
             "title": "Steam DLC04 Tailor pack",
@@ -51836,30 +51919,35 @@
                 "b45c4b6eb98b4797a1b2cc53498c5ddc"
             ],
             "itemQty": {
-                "b45c4b6eb98b4797a1b2cc53498c5ddc": 1,
-                "857bb026e48543b3a8d68c1feeb81065": 1,
-                "9fe470c9e9194c43961ea3debd0d47f3": 1,
                 "f8abcb38cf314c36abf547109d10f453": 1,
-                "6660ed75c59f451ebb0ecfbebb2f8ddb": 1,
-                "a3a5910706984b3b9591b5caf43e099b": 1,
-                "db4b3588ef3643df90a152afee6eea7e": 1,
-                "b478cc3085944b94ad6e6c48eebfdee4": 1,
-                "efee9f57cfc94039b96df40c8e4afc7b": 1,
+                "9fe470c9e9194c43961ea3debd0d47f3": 1,
                 "2c88228ac05f4a858f39e1a1b9421b7f": 1,
+                "857bb026e48543b3a8d68c1feeb81065": 1,
+                "a3a5910706984b3b9591b5caf43e099b": 1,
+                "efee9f57cfc94039b96df40c8e4afc7b": 1,
+                "db4b3588ef3643df90a152afee6eea7e": 1,
+                "b45c4b6eb98b4797a1b2cc53498c5ddc": 1,
+                "b478cc3085944b94ad6e6c48eebfdee4": 1,
                 "f82c5fbf7eab4f64822140cd2274627b": 1,
-                "0fe1dacb50f74caf9566292a5e7bcb1d": 1
+                "0fe1dacb50f74caf9566292a5e7bcb1d": 1,
+                "6660ed75c59f451ebb0ecfbebb2f8ddb": 1
             },
             "tags": [
                 "PlatformOnly",
-                "Steam"
+                "Steam",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "3172010"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-08-07T19:35:54.554Z",
-            "updatedAt": "2024-09-27T11:47:44.618Z"
+            "updatedAt": "2025-12-02T08:58:58.292Z"
         },
         {
             "title": "Steam DLC04 Weapon pack",
@@ -51890,32 +51978,37 @@
             "itemIds": [
                 "ca150f0abd634a2aa751753494b16c89",
                 "4ceded3d0da841b2b7c90276df3d7dbe",
-                "11c57563f609414293636b726aa54d18",
                 "f9a13e6c2a0f4e6d9251347bc63634c7",
                 "84d0c77410184162a1b300dcca87c600",
                 "519eb121a5d14c0393ad0555251a3466",
-                "471c8b51a2794c72a90f7ed082a78e9f"
+                "471c8b51a2794c72a90f7ed082a78e9f",
+                "11c57563f609414293636b726aa54d18"
             ],
             "itemQty": {
                 "11c57563f609414293636b726aa54d18": 1,
-                "4ceded3d0da841b2b7c90276df3d7dbe": 1,
-                "f9a13e6c2a0f4e6d9251347bc63634c7": 1,
-                "ca150f0abd634a2aa751753494b16c89": 1,
                 "519eb121a5d14c0393ad0555251a3466": 1,
-                "84d0c77410184162a1b300dcca87c600": 2,
-                "471c8b51a2794c72a90f7ed082a78e9f": 1
+                "f9a13e6c2a0f4e6d9251347bc63634c7": 1,
+                "471c8b51a2794c72a90f7ed082a78e9f": 1,
+                "4ceded3d0da841b2b7c90276df3d7dbe": 1,
+                "ca150f0abd634a2aa751753494b16c89": 1,
+                "84d0c77410184162a1b300dcca87c600": 2
             },
             "tags": [
                 "PlatformOnly",
-                "Steam"
+                "Steam",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "3171990"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-25T12:07:35.316Z",
-            "updatedAt": "2024-09-27T11:47:46.094Z"
+            "updatedAt": "2025-12-02T08:58:58.743Z"
         },
         {
             "title": "Steam DLCBust Heist pack",
@@ -51939,8 +52032,8 @@
                     "currencyCode": "CASH",
                     "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2025-04-17T13:04:16.800Z",
-                    "discountPurchaseAt": "2025-04-17T13:04:16.800Z"
+                    "purchaseAt": "2025-01-28T13:48:30.841Z",
+                    "discountPurchaseAt": "2025-01-28T13:48:30.841Z"
                 }
             ],
             "itemIds": [
@@ -51950,16 +52043,120 @@
                 "8770fa7939324382ba36722ca54c36b3": 1
             },
             "tags": [
+                "Secondrow",
                 "PlatformOnly",
-                "Steam"
+                "steam",
+                "MarketDealVendor"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "3679630"
+            },
             "region": "SE",
             "language": "en-US",
-            "createdAt": "2025-04-17T13:04:19.430Z",
-            "updatedAt": "2025-05-26T08:03:59.640Z"
+            "createdAt": "2025-01-28T13:48:30.685Z",
+            "updatedAt": "2025-12-02T08:58:58.103Z"
+        },
+        {
+            "title": "Steam DLCdema Heist pack",
+            "itemId": "71fa89c7c834426d814f361a10e10e8f",
+            "baseAppId": "",
+            "sku": "pd3_steam_dlcdema_heist_pack",
+            "namespace": "pd3",
+            "name": "Steam DLCdema Heist pack",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Bundle",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "BUNDLE",
+            "regionData": [
+                {
+                    "price": 50,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 50,
+                    "currencyCode": "USD",
+                    "currencyType": "REAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-10-23T07:11:47.651Z",
+                    "discountPurchaseAt": "2025-10-23T07:11:47.651Z"
+                }
+            ],
+            "itemIds": [
+                "98770d6732e048c4bff936a8ce23cfce"
+            ],
+            "itemQty": {
+                "98770d6732e048c4bff936a8ce23cfce": 1
+            },
+            "tags": [
+                "PlatformOnly",
+                "Steam",
+                "Featured",
+                "MarketDealVendor"
+            ],
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "4129170"
+            },
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-10-23T07:11:54.531Z",
+            "updatedAt": "2026-01-13T08:51:46.731Z"
+        },
+        {
+            "title": "Steam DLCshiya Heist pack",
+            "itemId": "3b7219f269154c3a83e7711554952548",
+            "baseAppId": "",
+            "sku": "pd3_steam_dlcshiya_heist_pack",
+            "namespace": "pd3",
+            "name": "Steam DLCshiya Heist pack",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Bundle",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "BUNDLE",
+            "regionData": [
+                {
+                    "price": 0,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-08-07T13:55:40.986Z",
+                    "discountPurchaseAt": "2025-08-07T13:55:40.986Z"
+                }
+            ],
+            "itemIds": [
+                "c1552591002e41868ae0398877c884e6"
+            ],
+            "itemQty": {
+                "c1552591002e41868ae0398877c884e6": 1
+            },
+            "tags": [
+                "Secondrow",
+                "PlatformOnly",
+                "Steam",
+                "MarketDealVendor"
+            ],
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "3858460",
+                "FirstPlatformPurchaseUrl": "https://store.steampowered.com/app/3858460/PAYDAY_3_Delivery_Charge_Heist/"
+            },
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-08-07T13:55:40.902Z",
+            "updatedAt": "2026-01-13T09:26:34.397Z"
         },
         {
             "title": "Steam Fool Mask Vendor Item",
@@ -51998,11 +52195,11 @@
             ],
             "features": [],
             "maxCountPerUser": 1,
-            "maxCount": 1,
+            "maxCount": -1,
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-11-01T09:23:57.449Z",
-            "updatedAt": "2025-05-26T15:44:58.111Z"
+            "updatedAt": "2025-09-10T07:52:00.864Z"
         },
         {
             "title": "Steam Fool Preset",
@@ -53038,7 +53235,8 @@
             "sku": "pd3_steam_cosmetics_mould_pp03_01",
             "namespace": "pd3",
             "name": "Steam Player Pack 03 Mask Mould 01",
-            "entitlementType": "DURABLE",
+            "entitlementType": "CONSUMABLE",
+            "useCount": 1,
             "categoryPath": "/MaskMould",
             "status": "ACTIVE",
             "listable": true,
@@ -53070,7 +53268,7 @@
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-08-27T08:31:29.635Z",
-            "updatedAt": "2024-09-27T11:47:36.689Z"
+            "updatedAt": "2025-10-10T14:25:45.413Z"
         },
         {
             "title": "Steam Player Pack 03 Mask Mould 01 - Vendor Item",
@@ -55254,6 +55452,49 @@
         },
         {
             "title": "Steam Tailor pack 01 gloves 03",
+            "itemId": "4466f7c8e32141c5b5a0e1e4691a1803",
+            "baseAppId": "",
+            "sku": "steam_pd3_cosmetic_tailorpack_01_gloves_03",
+            "namespace": "pd3",
+            "name": "Steam Tailor pack 01 gloves 03",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Gloves",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "INGAMEITEM",
+            "regionData": [
+                {
+                    "price": 0,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2023-11-15T13:06:13.403Z",
+                    "discountPurchaseAt": "2023-11-15T13:06:13.403Z"
+                }
+            ],
+            "itemQty": {},
+            "boundItemIds": [
+                "9f7a29d54a5c4e20a8c8176c7b1ecf01"
+            ],
+            "tags": [
+                "PlatformOnly",
+                "Steam",
+                "Premium"
+            ],
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2023-11-15T13:05:59.240Z",
+            "updatedAt": "2024-12-10T08:39:51.494Z"
+        },
+        {
+            "title": "Steam Tailor pack 01 gloves 03",
             "itemId": "8e93faab93644527a7682a49ddb71196",
             "baseAppId": "",
             "sku": "pd3_steam_cosmetic_tailorpack_01_gloves_03",
@@ -55296,49 +55537,6 @@
             "language": "en-US",
             "createdAt": "2023-11-16T07:17:29.881Z",
             "updatedAt": "2024-09-27T11:47:44.831Z"
-        },
-        {
-            "title": "Steam Tailor pack 01 gloves 03",
-            "itemId": "4466f7c8e32141c5b5a0e1e4691a1803",
-            "baseAppId": "",
-            "sku": "steam_pd3_cosmetic_tailorpack_01_gloves_03",
-            "namespace": "pd3",
-            "name": "Steam Tailor pack 01 gloves 03",
-            "entitlementType": "DURABLE",
-            "categoryPath": "/Gloves",
-            "status": "ACTIVE",
-            "listable": true,
-            "purchasable": true,
-            "itemType": "INGAMEITEM",
-            "regionData": [
-                {
-                    "price": 0,
-                    "discountPercentage": 0,
-                    "discountAmount": 0,
-                    "discountedPrice": 0,
-                    "currencyCode": "CASH",
-                    "currencyType": "VIRTUAL",
-                    "currencyNamespace": "pd3",
-                    "purchaseAt": "2023-11-15T13:06:13.403Z",
-                    "discountPurchaseAt": "2023-11-15T13:06:13.403Z"
-                }
-            ],
-            "itemQty": {},
-            "boundItemIds": [
-                "9f7a29d54a5c4e20a8c8176c7b1ecf01"
-            ],
-            "tags": [
-                "PlatformOnly",
-                "Steam",
-                "Premium"
-            ],
-            "features": [],
-            "maxCountPerUser": 1,
-            "maxCount": -1,
-            "region": "SE",
-            "language": "en-US",
-            "createdAt": "2023-11-15T13:05:59.240Z",
-            "updatedAt": "2024-12-10T08:39:51.494Z"
         },
         {
             "title": "Steam Tailor pack 01 gloves 04",
@@ -60238,6 +60436,64 @@
             "updatedAt": "2024-10-30T08:47:48.564Z"
         },
         {
+            "title": "Twitch drops set 05",
+            "itemId": "912750c3a9f84bbabf76f2cd5bde014c",
+            "baseAppId": "",
+            "sku": "pd3_twitch_drops_bundle_05",
+            "namespace": "pd3",
+            "name": "Twitch drops set 05",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Bundle",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "BUNDLE",
+            "regionData": [
+                {
+                    "price": 0,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2024-11-29T14:42:12.454Z",
+                    "discountPurchaseAt": "2024-11-29T14:42:12.454Z"
+                }
+            ],
+            "itemIds": [
+                "a01616b8f3784e8d9a21a2e680e345d4",
+                "f83a7e92f67640c983db9a14df82f16e",
+                "2a392e877de94e2b8c73e783bdaf03f0",
+                "385bb49e4a04450b8a822b98a61c31ca",
+                "1d4e1d0b045a4b678db5822ea073744e",
+                "68ef489895a3423cbd847063b663c19c",
+                "bbdbdaa55379493dadb0edc248703071",
+                "dd62f33eb0b44ed38e7f01fff9f8bf17",
+                "aec9b329de494cf78f09ecc9efe7f95e",
+                "7c94dcd1223c4f6ca7c1bb2f5d89eee1"
+            ],
+            "itemQty": {
+                "68ef489895a3423cbd847063b663c19c": 1,
+                "a01616b8f3784e8d9a21a2e680e345d4": 1,
+                "385bb49e4a04450b8a822b98a61c31ca": 1,
+                "1d4e1d0b045a4b678db5822ea073744e": 1,
+                "aec9b329de494cf78f09ecc9efe7f95e": 1,
+                "2a392e877de94e2b8c73e783bdaf03f0": 1,
+                "dd62f33eb0b44ed38e7f01fff9f8bf17": 1,
+                "bbdbdaa55379493dadb0edc248703071": 1,
+                "7c94dcd1223c4f6ca7c1bb2f5d89eee1": 1,
+                "f83a7e92f67640c983db9a14df82f16e": 1
+            },
+            "features": [],
+            "maxCountPerUser": -1,
+            "maxCount": -1,
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2024-11-29T14:42:13.205Z",
+            "updatedAt": "2025-09-10T07:52:00.887Z"
+        },
+        {
             "title": "Twitch drops weapon charm Bacon 01",
             "itemId": "d6f974bf1618472eab17d90e4fe04fc7",
             "baseAppId": "",
@@ -60806,15 +61062,18 @@
                 "2356480e5b2a4df2b4bac8d2b8b07143"
             ],
             "tags": [
-                "inexhaustible"
+                "inexhaustible",
+                "Premium"
             ],
-            "features": [],
+            "features": [
+                "iap-sync-twitch"
+            ],
             "maxCountPerUser": 1,
             "maxCount": 1,
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-10-18T15:30:51.829Z",
-            "updatedAt": "2025-05-26T15:44:56.752Z"
+            "updatedAt": "2025-09-10T09:07:59.881Z"
         },
         {
             "title": "Weapon Charm Villa 1",
@@ -62774,15 +63033,18 @@
                 "2356480e5b2a4df2b4bac8d2b8b07143"
             ],
             "tags": [
-                "inexhaustible"
+                "inexhaustible",
+                "Premium"
             ],
-            "features": [],
+            "features": [
+                "iap-sync-twitch"
+            ],
             "maxCountPerUser": -1,
             "maxCount": -1,
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-10-18T15:31:45.309Z",
-            "updatedAt": "2025-05-26T15:44:56.436Z"
+            "updatedAt": "2025-09-10T09:07:59.912Z"
         },
         {
             "title": "Weapon Sticker STPatch 05 Twitch Drops 02",
@@ -62818,15 +63080,18 @@
                 "2356480e5b2a4df2b4bac8d2b8b07143"
             ],
             "tags": [
-                "inexhaustible"
+                "inexhaustible",
+                "Premium"
             ],
-            "features": [],
+            "features": [
+                "iap-sync-twitch"
+            ],
             "maxCountPerUser": -1,
             "maxCount": -1,
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-10-18T15:32:52.125Z",
-            "updatedAt": "2025-05-26T15:44:56.420Z"
+            "updatedAt": "2025-09-10T09:07:59.905Z"
         },
         {
             "title": "Weapon Sticker STPatch 05 Twitch Drops 03",
@@ -62862,15 +63127,18 @@
                 "2356480e5b2a4df2b4bac8d2b8b07143"
             ],
             "tags": [
-                "inexhaustible"
+                "inexhaustible",
+                "Premium"
             ],
-            "features": [],
+            "features": [
+                "iap-sync-twitch"
+            ],
             "maxCountPerUser": -1,
             "maxCount": -1,
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-10-18T15:34:02.891Z",
-            "updatedAt": "2025-05-26T15:44:56.387Z"
+            "updatedAt": "2025-09-10T09:07:59.895Z"
         },
         {
             "title": "Window Platform Penthouse Preplanning asset",
@@ -63210,16 +63478,21 @@
                 "ff70a0f212234d3e949bd2dc6e6fe55c": 1
             },
             "tags": [
+                "Secondrow",
                 "PlatformOnly",
-                "XBox"
+                "XBox",
+                "MarketDealVendor"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": 1,
+            "ext": {
+                "FirstPartyProductId": "9NQW69HS2SN0"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-10-30T15:31:42.288Z",
-            "updatedAt": "2025-02-03T09:08:00.503Z"
+            "updatedAt": "2025-12-02T08:58:58.211Z"
         },
         {
             "title": "XBox Character Fool  01",
@@ -63298,15 +63571,20 @@
             },
             "tags": [
                 "PlatformOnly",
-                "XBox"
+                "XBox",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "9P78D85HQ597"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-10T13:47:42.965Z",
-            "updatedAt": "2024-09-27T11:47:25.529Z"
+            "updatedAt": "2025-12-02T08:58:58.664Z"
         },
         {
             "title": "XBox DLC01 Tailor pack",
@@ -63364,15 +63642,20 @@
             },
             "tags": [
                 "PlatformOnly",
-                "XBox"
+                "XBox",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "9PJ4G4MBM08W"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-15T15:02:37.085Z",
-            "updatedAt": "2024-09-27T11:47:25.516Z"
+            "updatedAt": "2025-12-02T08:58:58.611Z"
         },
         {
             "title": "XBox DLC01 Weapon pack ",
@@ -63418,15 +63701,20 @@
             },
             "tags": [
                 "PlatformOnly",
-                "XBox"
+                "XBox",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "9NWT03PQ7Z9F"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2023-11-10T13:24:11.231Z",
-            "updatedAt": "2024-09-27T11:47:24.838Z"
+            "updatedAt": "2025-12-02T08:58:58.581Z"
         },
         {
             "title": "XBox DLC02 Heist pack",
@@ -63462,15 +63750,20 @@
             },
             "tags": [
                 "PlatformOnly",
-                "XBox"
+                "XBox",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "9P3SL33TM14P"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-05-21T13:36:29.474Z",
-            "updatedAt": "2024-09-27T11:47:37.994Z"
+            "updatedAt": "2025-12-02T08:58:58.653Z"
         },
         {
             "title": "XBox DLC02 Tailor pack",
@@ -63513,30 +63806,35 @@
                 "2fc488b02b444d19909fff6cd7cf4134"
             ],
             "itemQty": {
-                "0139ea7db48e41a1bc15ef23cdadebe6": 1,
-                "cbd7b9ff26a44ccda324cb2c57981cd0": 1,
-                "2fc488b02b444d19909fff6cd7cf4134": 1,
-                "714cdfe977c4465f84a91711ff6da51b": 1,
+                "8498ec38068a49a8a226472242d21b69": 1,
+                "26624844097649068ccc9a9dd8d09e5e": 1,
                 "8f45d034d7b244de81698d001d9c6acf": 1,
+                "714cdfe977c4465f84a91711ff6da51b": 1,
+                "0139ea7db48e41a1bc15ef23cdadebe6": 1,
+                "a109f90a664d4b81ad92bd3beb5779c9": 1,
+                "2fc488b02b444d19909fff6cd7cf4134": 1,
                 "e402377c076e4c4990a8ebce09d408cc": 1,
                 "7ab0d5d464a743cb8994d1c4bd11d032": 1,
-                "a109f90a664d4b81ad92bd3beb5779c9": 1,
+                "cbd7b9ff26a44ccda324cb2c57981cd0": 1,
                 "a5b1febd5c1a4994be8e2f92f4f0b84c": 1,
-                "7cebf855740549c1b458d9a88a8022f9": 1,
-                "26624844097649068ccc9a9dd8d09e5e": 1,
-                "8498ec38068a49a8a226472242d21b69": 1
+                "7cebf855740549c1b458d9a88a8022f9": 1
             },
             "tags": [
                 "PlatformOnly",
-                "XBox"
+                "XBox",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "9PF39XFBW4Z7"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-03-06T14:54:25.474Z",
-            "updatedAt": "2024-09-27T11:47:41.068Z"
+            "updatedAt": "2025-12-02T08:58:58.538Z"
         },
         {
             "title": "XBox DLC02 Weapon pack ",
@@ -63575,24 +63873,29 @@
             ],
             "itemQty": {
                 "a72b1e3c10e243bd996ff750b3fd19b4": 1,
-                "f9a13e6c2a0f4e6d9251347bc63634c7": 2,
-                "099cbb6f1694444a9d90c26a8c63f998": 1,
                 "33a79d2c8ba749db8d2df7fabe7ae820": 1,
                 "555122dde2bc4191ad07d18587a61e73": 1,
+                "f9a13e6c2a0f4e6d9251347bc63634c7": 2,
                 "5a092a60d47c4a80b76a8a294fc307b4": 1,
+                "099cbb6f1694444a9d90c26a8c63f998": 1,
                 "84d0c77410184162a1b300dcca87c600": 1
             },
             "tags": [
                 "PlatformOnly",
-                "XBox"
+                "XBox",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "9NZ2VPWF4VZM"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-02-14T15:46:35.588Z",
-            "updatedAt": "2024-09-27T11:47:40.897Z"
+            "updatedAt": "2025-12-02T08:58:58.507Z"
         },
         {
             "title": "XBox DLC03 Heist pack",
@@ -63629,15 +63932,20 @@
             "tags": [
                 "PlatformOnly",
                 "XBox",
-                "ReportsTelemetry"
+                "MarketDealVendor",
+                "ReportsTelemetry",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "9PDS6MP2NLP5"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-09T08:50:44.700Z",
-            "updatedAt": "2024-09-27T11:47:46.498Z"
+            "updatedAt": "2025-12-02T08:58:58.392Z"
         },
         {
             "title": "XBox DLC03 Tailor pack",
@@ -63696,15 +64004,20 @@
             "tags": [
                 "PlatformOnly",
                 "XBox",
-                "ReportsTelemetry"
+                "MarketDealVendor",
+                "ReportsTelemetry",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": 1,
+            "ext": {
+                "FirstPartyProductId": "9MT4S0DSW2X9"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-09T09:51:54.603Z",
-            "updatedAt": "2024-09-27T11:47:41.704Z"
+            "updatedAt": "2025-12-02T08:58:58.329Z"
         },
         {
             "title": "XBox DLC03 Weapon Charm 01",
@@ -63846,15 +64159,20 @@
             "tags": [
                 "PlatformOnly",
                 "XBox",
-                "ReportsTelemetry"
+                "MarketDealVendor",
+                "ReportsTelemetry",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "9NSQVWZ9RP8F"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-01T12:20:39.501Z",
-            "updatedAt": "2024-09-27T11:47:41.524Z"
+            "updatedAt": "2025-12-02T08:58:58.422Z"
         },
         {
             "title": "XBox DLC04  Weapon Charm 01",
@@ -63981,16 +64299,21 @@
                 "fe3355f049164ef689f58d4eaaab1919": 1
             },
             "tags": [
+                "Secondrow",
                 "PlatformOnly",
-                "XBox"
+                "XBox",
+                "MarketDealVendor"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "9P32QJB09RG0"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-08-16T13:07:22.722Z",
-            "updatedAt": "2024-09-27T11:47:40.208Z"
+            "updatedAt": "2025-12-02T08:58:58.273Z"
         },
         {
             "title": "XBox DLC04 Tailor pack",
@@ -64033,30 +64356,35 @@
                 "7f47189b58b5464d98c18af8f4703fab"
             ],
             "itemQty": {
-                "7f47189b58b5464d98c18af8f4703fab": 1,
-                "52317ec6b84547639010a2f134926a83": 1,
-                "2f0fd09f60fd42a1af00efb9b1667ceb": 1,
                 "6dd0f971a218448e99bfe5ec693d8412": 1,
-                "b9a06fce3ec1425e974f85543eadebc4": 1,
-                "fce96763d35840e6a61605102c417e40": 1,
-                "057e7112e4ca42bfaf3495bcac16d6c2": 1,
+                "52317ec6b84547639010a2f134926a83": 1,
                 "025ae6142fae4485ad86d4547997124f": 1,
+                "057e7112e4ca42bfaf3495bcac16d6c2": 1,
                 "299e1136818348d8b1804981a77d0e18": 1,
-                "9beca44b763746d29f51494a8dfd1e93": 1,
+                "2f0fd09f60fd42a1af00efb9b1667ceb": 1,
                 "2db0a8c8c3f34026b1035e38927a0204": 1,
-                "a0ae48651b3745da9189023ced51ee64": 1
+                "b9a06fce3ec1425e974f85543eadebc4": 1,
+                "9beca44b763746d29f51494a8dfd1e93": 1,
+                "a0ae48651b3745da9189023ced51ee64": 1,
+                "fce96763d35840e6a61605102c417e40": 1,
+                "7f47189b58b5464d98c18af8f4703fab": 1
             },
             "tags": [
                 "PlatformOnly",
-                "XBox"
+                "XBox",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "9P32QJB09RG0"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-08-07T19:24:08.406Z",
-            "updatedAt": "2024-09-27T11:47:44.960Z"
+            "updatedAt": "2025-12-02T08:58:58.349Z"
         },
         {
             "title": "XBox DLC04 Weapon pack",
@@ -64087,32 +64415,86 @@
             "itemIds": [
                 "fbf987bcb0c9455d86b7f2869dd1f0c0",
                 "591978731dc14e3b8fb7af9b27cd8a76",
-                "114143ccf88048d19c729563385d8a12",
                 "f9a13e6c2a0f4e6d9251347bc63634c7",
                 "84d0c77410184162a1b300dcca87c600",
                 "fb06749bd0f54d3babe4712c1f880596",
-                "d20579615484407486838a9abc9e02f4"
+                "d20579615484407486838a9abc9e02f4",
+                "114143ccf88048d19c729563385d8a12"
             ],
             "itemQty": {
                 "fbf987bcb0c9455d86b7f2869dd1f0c0": 1,
+                "d20579615484407486838a9abc9e02f4": 1,
                 "f9a13e6c2a0f4e6d9251347bc63634c7": 1,
                 "114143ccf88048d19c729563385d8a12": 1,
-                "591978731dc14e3b8fb7af9b27cd8a76": 1,
-                "d20579615484407486838a9abc9e02f4": 1,
                 "fb06749bd0f54d3babe4712c1f880596": 1,
-                "84d0c77410184162a1b300dcca87c600": 2
+                "84d0c77410184162a1b300dcca87c600": 2,
+                "591978731dc14e3b8fb7af9b27cd8a76": 1
             },
             "tags": [
                 "PlatformOnly",
-                "XBox"
+                "XBox",
+                "MarketDealVendor",
+                "Thirdrow"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "9NFR4T095H60"
+            },
             "region": "SE",
             "language": "en-US",
             "createdAt": "2024-07-25T12:11:26.852Z",
-            "updatedAt": "2024-09-27T11:47:46.070Z"
+            "updatedAt": "2025-12-02T08:58:58.722Z"
+        },
+        {
+            "title": "XBox DLCshiya Heist pack",
+            "itemId": "36d75f08df1c4806864593eb28448d06",
+            "baseAppId": "",
+            "sku": "pd3_xbox_dlcshiya_heist_pack",
+            "namespace": "pd3",
+            "name": "XBox DLCshiya Heist pack",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Bundle",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "BUNDLE",
+            "regionData": [
+                {
+                    "price": 0,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 0,
+                    "currencyCode": "CASH",
+                    "currencyType": "VIRTUAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-08-07T14:06:31.156Z",
+                    "discountPurchaseAt": "2025-08-07T14:06:31.156Z"
+                }
+            ],
+            "itemIds": [
+                "f16be2022e9548ba8369f9a6ebdb8f13"
+            ],
+            "itemQty": {
+                "f16be2022e9548ba8369f9a6ebdb8f13": 1
+            },
+            "tags": [
+                "PlatformOnly",
+                "secondrow",
+                "Xbox",
+                "MarketDealVendor"
+            ],
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "9PHKL72XRBV4"
+            },
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-08-07T14:06:31.081Z",
+            "updatedAt": "2026-01-13T09:31:15.974Z"
         },
         {
             "title": "XBox Fool Mask Vendor Item",
@@ -68389,8 +68771,8 @@
                     "currencyCode": "CASH",
                     "currencyType": "VIRTUAL",
                     "currencyNamespace": "pd3",
-                    "purchaseAt": "2025-04-17T12:59:59.236Z",
-                    "discountPurchaseAt": "2025-04-17T12:59:59.236Z"
+                    "purchaseAt": "2025-01-28T15:38:16.875Z",
+                    "discountPurchaseAt": "2025-01-28T15:38:16.875Z"
                 }
             ],
             "itemIds": [
@@ -68400,16 +68782,70 @@
                 "299743f726ed4b77a718b076d3814c85": 1
             },
             "tags": [
+                "Secondrow",
                 "PlatformOnly",
-                "XBox"
+                "XBox",
+                "MarketDealVendor"
             ],
             "features": [],
             "maxCountPerUser": 1,
             "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "9N9TQ428F8BG"
+            },
             "region": "SE",
             "language": "en-US",
-            "createdAt": "2025-04-17T13:00:01.942Z",
-            "updatedAt": "2025-05-26T08:03:59.617Z"
+            "createdAt": "2025-01-28T15:38:16.849Z",
+            "updatedAt": "2025-12-02T08:58:58.172Z"
+        },
+        {
+            "title": "Xbox DLCdema Heist pack",
+            "itemId": "5b6d4112114942d7904750532ca283e9",
+            "baseAppId": "",
+            "sku": "pd3_xbox_dlcdema_heist_pack",
+            "namespace": "pd3",
+            "name": "Xbox DLCdema Heist pack",
+            "entitlementType": "DURABLE",
+            "categoryPath": "/Bundle",
+            "status": "ACTIVE",
+            "listable": true,
+            "purchasable": true,
+            "itemType": "BUNDLE",
+            "regionData": [
+                {
+                    "price": 50,
+                    "discountPercentage": 0,
+                    "discountAmount": 0,
+                    "discountedPrice": 50,
+                    "currencyCode": "USD",
+                    "currencyType": "REAL",
+                    "currencyNamespace": "pd3",
+                    "purchaseAt": "2025-10-23T11:51:06.753Z",
+                    "discountPurchaseAt": "2025-10-23T11:51:06.753Z"
+                }
+            ],
+            "itemIds": [
+                "2110184ae55c4e61bfe79c1111916882"
+            ],
+            "itemQty": {
+                "2110184ae55c4e61bfe79c1111916882": 1
+            },
+            "tags": [
+                "PlatformOnly",
+                "Featured",
+                "Xbox",
+                "MarketDealVendor"
+            ],
+            "features": [],
+            "maxCountPerUser": 1,
+            "maxCount": -1,
+            "ext": {
+                "FirstPartyProductId": "9PJXDWWTM28C"
+            },
+            "region": "SE",
+            "language": "en-US",
+            "createdAt": "2025-10-23T11:51:13.880Z",
+            "updatedAt": "2026-01-13T08:51:46.704Z"
         },
         {
             "title": "Xbox Player Pack 03 Mask Mould 01",
