@@ -85,7 +85,7 @@ def fetch_and_save_data(token):
 
 # Step 3: Compare and categorize the data
 def compare_and_categorize_data(new_data):
-    old_filename = 'Shopping_Spree_Heist.json'  # Old data file
+    old_filename = 'Swedish_Weapon_Pack.json'  # Old data file
     new_filename = 'Payday3_Items.json'  # New data file
 
     with open(old_filename, 'r') as old_file:
